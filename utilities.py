@@ -48,7 +48,9 @@ def get_file_already_exist(folder_name):
 def whether_file_exist(folder_name):
     # 如果尚未有同名的資料夾，便創建資料夾
     if os.path.exists('result/{}'.format(folder_name)) == False:
+        os.chdir(os.getcwd() + '/result')
         os.mkdir(folder_name)
+        os.chdir('..')
         exist_file_id_list = []
     
     # 如果已有同名的資料夾，便取得其中已有的檔案清單
