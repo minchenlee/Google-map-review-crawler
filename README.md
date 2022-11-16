@@ -13,4 +13,12 @@ tqdm: https://github.com/tqdm/tqdm
     pip install -r requirements.txt    
 
 ### 使用方式
-執行 'Google map review crawler.ipynb'
+#### 1. 執行 Google map review crawler.ipynb
+
+#### 2. 呼叫 get_all_restaurant_comment() 函式  
+傳入
+舉例來說，如果我要爬取 restaurant_list1 中所有餐廳的評論，呼叫的方式如下：
+
+    get_all_restaurant_comment('restaurant_list1')    
+
+### 
