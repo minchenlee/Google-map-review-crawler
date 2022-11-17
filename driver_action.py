@@ -32,9 +32,8 @@ def scroll_comment_section(driver):
     
     scroll_times = math.ceil(user_ratings_total/10)
     # google map 最多能顯示 1130 則，無論再怎麼滑動都不會回傳新的評論。
-    # 設 150 次是考慮新的評論的載入可能會超過 0.7 秒。
-    if scroll_times >= 150:
-        scroll_times = 150
+    if scroll_times >= 112:
+        scroll_times = 112
 
     # 滑動進度條
     print('滑動評論中...')
@@ -42,7 +41,7 @@ def scroll_comment_section(driver):
     for i in range(scroll_times):
             
         driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", comment_section)
-        time.sleep(0.7)
+        time.sleep(1.2)
         
         scroll_process.update(1)
 
@@ -50,6 +49,8 @@ def scroll_comment_section(driver):
 def expand_full_comment(driver):
     # 點擊展開評論全文的按鈕
     time.sleep(6)
+    comment_section = driver.find_element(By.CLASS_NAME, 'm6QErb.DxyBCb.kA9KIf.dS8AEf')
+    driver.execute_script("arguments[0].scrollTop = arguments[1]", comment_section, 0)
     comment_section = driver.find_element(By.CLASS_NAME, 'm6QErb.DxyBCb.kA9KIf.dS8AEf')
     open_full_comment_button = driver.find_elements(By.CLASS_NAME,"w8nwRe.kyuRq")
     
@@ -60,3 +61,4 @@ def expand_full_comment(driver):
     for button in open_full_comment_button:
         button.click()
         button_process.update(1)
+        
