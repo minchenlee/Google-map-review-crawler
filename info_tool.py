@@ -12,6 +12,7 @@ def get_place_name(driver):
     
     place_name = driver.find_element(By.XPATH, place_name_XPATH).text
     place_name = place_name.replace('/', ' ')
+    place_name = place_name.replace('|', ' ')
 
     print('正在獲取{}的評論'.format(place_name))
 
