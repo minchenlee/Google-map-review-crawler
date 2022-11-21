@@ -1,0 +1,943 @@
+user_name,user_profile_url,rating,local_guide,comment_num,comment_text
+ 王怡婷 ,https://www.google.com/maps/contrib/117761042105260712763/reviews?hl=zh-TW,5,False,10,❤️肉圓皮薄；軟中帶Q；內餡夠味（有香菇、肉、筍）超級好吃好吃好吃！缺點小顆一點）❤️綜合羹大碗（肉羹、蝦仁、魚酥、魷魚）份量多，口味不錯。❤️乾意麵，油蔥酥口味，清爽又好吃。
+ 邵慧娟 ,https://www.google.com/maps/contrib/101922472816942869367/reviews?hl=zh-TW,3,True,226,"肉圓內餡飽滿油炸的外皮較Q清蒸的外皮綿軟
+紅槽醬有鹹味不甜
+加上店家自製辣椒更加帶勁
+
+蝦仁羹大眾口味中規中矩
+蝦棗帶有杏仁片酥炸吃起來更加香脆
+
+用餐空間不大但是乾淨而且有冷氣
+而且位在龍山寺附近熱鬧地段
+覺得價格來說也是合理
+有經過時可以品嚐試試"
+ ShinYu Liao ,https://www.google.com/maps/contrib/116509162951453744500/reviews?hl=zh-TW,5,True,185,每樣都好吃！結果豆干最驚艷🤩豆干必點必點👍肉圓蒸的跟炸的肉眼實在很難分辨，吃過之後炸的皮比較Q彈好吃😋裡面的紅糟肉和筍丁都是傳統美味～綜合羹也料多實在，但是店裡冷氣有點不強喝到流汗💦店內乾淨明亮，有百年歷史介紹很有特色，還有傳統天花板很復古，店家熱情客氣老闆心算能力超強嚇到我🤣下次再來試試看其他品項～
+ Carlos Chen ,https://www.google.com/maps/contrib/111697724717298764379/reviews?hl=zh-TW,3,True,342,"給分標準
+5⭐很好吃驚艷。會特地去用餐的店家
+4⭐蠻好吃。人在附近可能會去吃
+3⭐還行。味道一般或是cp值不夠高，不大會二訪
+2⭐味道一般“而且”cp值不高
+1⭐明顯缺點，難吃、態度極差之類
+
+整體是偏甜的南部口味
+
+魯肉飯2.5⭐
+滷肉少，沒什麼味道香氣，份量也小，米飯稍微乾一點，沒有Q彈口感
+
+綜合羹3.8⭐
+還行，口味偏甜，料也不少，但整體沒有太多記憶點，就是還不賴
+
+燙青菜3.8⭐
+一般的燙青菜，有油蔥香
+
+炸魚塊2.5⭐
+太少...就是炸土魠魚65元才5塊，口感就一般市場買到的
+
+肉圓3.0⭐
+偏甜，小顆，主要是肉跟筍乾，外皮口感還行，但吃過夠Q彈的"
+ Bonnie lin ,https://www.google.com/maps/contrib/110048815742511316099/reviews?hl=zh-TW,5,True,189,初訪，店內裝潢設計很不錯，有店家獨特風格，點了2碗炸的肉圓和一個炸蝦棗（沒吃過也沒聽過，試試），肉圓皮QQ的很好吃，炸蝦棗老闆說是特色菜品，嚐起來酥脆外皮～也不錯吃。會回訪的店家。10/21/2022
+ 洪家章 ,https://www.google.com/maps/contrib/106145768551293276335/reviews?hl=zh-TW,5,True,268,"萬華廣州街上的「川業肉圓」，前身是「萬華新竹肉圓」，創立於1910年，傳承111年老店而取其「川」字，以曾祖父名而取其「業」字，在今年2021年10月10日重新裝修開幕，現在由第四代陳勁宏老闆接班，這陣子我陸續到訪，除了來吃美食，更是對年輕人接班的支持鼓勵。
+
+肉圓相傳是彰化縣北斗區范萬居所創，後來四處發展，衍生許多作法，彰化以上多是油炸或油泡，南部則以炊蒸為主，各有優點，我都喜歡，而且是很愛吃，從小到大吃過不下五十間了。
+
+關於川業肉圓的百年歷史，店內牆壁資料寫的很清楚，有興趣的朋友可以看看。川業肉圓分成油炸（正確說是油泡式）、清蒸兩種，清蒸是限時限量的，川業走的是紅糟肉圓，內餡豬後腿肉事先醃製過，加上埔里香菇、處理過的筍子，淋上特製甜醬，肉圓皮Q彈嫩，內餡鹹甜，尾韻紅糟酒香味不會太重，清蒸肉圓吃起來紅糟味比油炸更重，兩款都好吃。
+
+貢丸湯當然有一定水準，肉味自然，灑上芹菜段就是最經典的滋味；豬血湯沙茶跟酸菜味不錯，豬血較軟嫩；綜合羹也是招牌，肉羹條鮮甜，口感佳，蝦仁羹、魷魚大塊，魚酥則相對還好，川業的肉羹底味偏淡，淋點烏醋會較好，一旁還有深褐色的辣椒醬，酌量添加也不錯，羹湯裡有少見的鴻禧菇，我覺得如果筍絲比例多一點，羹湯味道會更好，當然口味是因人而異的。
+
+乾意麵麵條煮得稍軟了點，澆頭肉燥搭配油蔥，中規中矩，香氣跟尾韻稍弱，這點在魯肉飯也是一樣的感覺，可能跟我喜歡偏甜的紅蔥頭肉燥有關，會覺得吃下來少了點什麼，不過這是個人喜好，不影響它的美味。
+
+炸蝦棗不同於常吃到的蝦捲，口感更緊實，脆感來自荸薺，炸過的外皮酥脆，蝦仁泥味鮮甜，因形似棗故名之，附的醃蘿蔔味道略苦，有點可惜。
+
+我喜歡川業的石花凍，滑嫩，枸杞甘香，喝起來不會太甜，沁涼消暑明目，飯後來上一碗石花凍結尾，非常舒服，這也是第四代老闆喜歡吃的。
+
+重新裝修後的川業肉圓，店面乾淨，用餐環境更為舒適，最重要的是味道沒變，我很佩服年輕人接班這種傳統小吃，而且這還是百年老店，吃力不討好，許多新改革、新作法要讓上一代調整適應，這不容易，第四代陳老闆用心客氣，我這鄰居當然要來支持鼓勵，大家有機會來萬華走走，不妨試試川業肉圓，記得給年輕老闆一個加油鼓勵，老店老味道不能消失，都靠這群認真經營的年輕人了。"
+ Joy Chen ,https://www.google.com/maps/contrib/100225554146396684115/reviews?hl=zh-TW,3,True,735,"平日上午剛好過來附近工作，看到對面招牌顏色醒目，來吃個肉圓吧。
+
+稍微查了一下，是一間老店，來試試看。
+
+菜單上的項目蠻多的，因為還有其他行程要跑，簡單買了個蒸肉圓外帶。
+
+店員的服務態度很好，店門口前的攤位整理得很乾淨，鍋裡的肉圓看起來挺不錯。
+
+肉圓比看起來的小一點，醬料口味還可以，肉圓外皮蠻Q嫩的，內餡有肉塊跟筍乾，是個表現中規中矩的肉圓。
+
+午餐簡單吃顆肉圓，沒有吃飽，但這是因為時間的關係，內用的話會點些其他東西試試看。"
+ Ang Lin ,https://www.google.com/maps/contrib/114414344337021359282/reviews?hl=zh-TW,5,True,356,疫情爆發後，就沒來廣州街了，這次來意外發現了這間老店新開的店，就抱著姑且一試的心態入內用餐！個人覺得此店內用空間雖不大，但仍營造出些許復古感，用餐感覺很好，且各樣餐點的口味都有到位，但就是份量小了點，建議必點豆干，其它如肉圓、羹類的也都還蠻不錯的，值得一吃！
+ Calvin Shih ,https://www.google.com/maps/contrib/100775987822730068409/reviews?hl=zh-TW,5,True,164,"原本想給四顆心，但是想想，仍舊給五顆。
+
+綜合大羹湯：口味道地，料新鮮香甜。胃口小的，一碗其實就七分飽了，大推。
+
+炸肉圓：稍微酸了一點，不知是否跟醬料有關。皮Q彈口感棒，整體來說稍微小了一點。
+
+燙青菜：地瓜葉，蔥油拌，好吃，大推。
+
+乾意麵：吃太飽，隔了幾小時才吃完，已經冷掉了。即使是涼掉了，也是香味十足。我相信熱的會更好吃！也是大推！
+
+整體來說，真的不錯！值得再光顧。"
+ cake988 green ,https://www.google.com/maps/contrib/100627915044965366980/reviews?hl=zh-TW,5,True,83,"肉圓(中溫炸)皮Q卻不油、內餡紅糟豬肉塊及筍絲入味,甜鹹恰好醬汁與肉圓交融出順口美味!綜合羹可嚐到多樣口味內涵(魷魚/魷魚羹、肉羹、蝦仁羹、魚酥)搭配蒜味羹湯風味豐富令人滿足!"
+ 徐慶鐘 ,https://www.google.com/maps/contrib/101011582787630476688/reviews?hl=zh-TW,4,True,138,"萬華美食「川業肉圓」龍山寺百年老店-萬華新竹肉圓轉型
+
+近年艋舺有好多店家改裝翻新，這家算是很成功的例子
+
+光是聽到百年肉圓就讓我忍不住躍躍欲試，之前居然沒發現
+
+真的是人要衣裝，重新裝潢後店面也長的更吸引人了
+
+聽說傳承第四代的小老闆比我還要年輕，真的要鼓勵一下"
+ Kevin Lin ,https://www.google.com/maps/contrib/116465854114175407821/reviews?hl=zh-TW,5,True,306,照片右邊的為限量的清蒸肉圓，左邊是標準的肉圓。看起來很像實際上差異最大的就在外皮的口感，清蒸偏軟一些油炸較爲Q彈。共同點就是內餡非常豐富。綜合羹蝦子還蠻大的，魷魚片也很可口。
+ Bella Tsai ,https://www.google.com/maps/contrib/108568149505412213094/reviews?hl=zh-TW,4,True,194,萬華地區少有好吃的肉圓，想解饞的話，可以來這兒。改裝過的店面，乾淨整潔，牆面有店家的歷史傳承故事、製程簡介，可以邊吃邊欣賞。肉圓可以選擇油炸或清蒸。
+ Yuching Chang ,https://www.google.com/maps/contrib/117871626896019437270/reviews?hl=zh-TW,3,False,61,"點了肉圓50$x2、貢丸湯，綜合羹80$、豆干！
+肉圓內餡是紅糟肉，醬不夠也沒有蒜泥、總覺得少了一個味！很可惜！
+其他也還好，中規中矩！"
+ Edward Hsieh ,https://www.google.com/maps/contrib/115020061290683681865/reviews?hl=zh-TW,5,True,264,川業肉圓位於廣州街上，捷運龍山寺站步行約2分鐘，周圍有收費停車場，交通非常方便。每日限量的招牌清蒸肉圓口感Q彈，充滿紅槽肉及香菇香氣，綜合羹及炸蝦棗有水準。川業肉圓整體CP值高，下班時間人潮多，建議提前前往。
+ 蔡秉芳 ,https://www.google.com/maps/contrib/113702191188626219701/reviews?hl=zh-TW,4,True,238,"在台北算不錯吃的肉圓，還可以選要蒸的還是炸的，有不同肉圓信仰的朋友也可以一起來吃
+不過羹類的湯頭味道較淡～"
+ 何怡樺 ,https://www.google.com/maps/contrib/106445810102320664916/reviews?hl=zh-TW,5,True,152,"2022/06/22
+
+與同事們去吃，炸的肉圓外皮Q彈、內裡扎實。另有清蒸的肉圓，下次要去吃看看。
+
+豬血湯的豬血很大塊，湯的調味幸好沒有很鹹。
+
+秘制三色豆加花生，第一次吃到熱熱的、燙滷起來的三色豆，而且是自己切蘿蔔、處理豆子，相較外面一般吃到的三色豆涼涼的、冷凍味重的，有好吃許多。（小老闆說是他下課回家時的小零食）。
+
+蝦棗🦐奇妙的炸物，外酥、內Q彈，下次再去吃一次。
+
+同事點的綜合羹，據他表示肉羹吃起來不錯！？"
+ Thanx ,https://www.google.com/maps/contrib/107005265731896838566/reviews?hl=zh-TW,4,True,66,創業超過100年的老店肉圓新裝潢新名稱。清蒸肉圓的皮還是很Q，但上桌時有點涼掉可惜，肉羹小碗料多實在
+ 怡然自得喜樂連璉 ,https://www.google.com/maps/contrib/117593219243602768843/reviews?hl=zh-TW,4,True,94,"百年老店，新裝上市，
+好一陣子沒來萬華
+Q彈的肉圓，清爽綜合羹麵，燙地瓜葉簡單營養！
+環境乾淨整潔，人員制服手腳俐落
+很高興看到年輕一代願意傳承老店！
+值得特別來品嚐！
+
+ps餐具使用捨一般傳統小吃的美耐皿塑膠製品等，回歸道地瓷盤碗，值得讚許！"
+ しょうちゅう焼酎 ,https://www.google.com/maps/contrib/101190263919232564439/reviews?hl=zh-TW,4,True,603,"服務優良熱情，但咀嚼炸肉圓間，尤其是外皮老在嘴裡散發濃厚的酸味，是肉圓本身？還是調料的問題？下回回原址吃看看再改評~
+
+（很意外，清蒸肉圓比台南的好吃）"
+ DODO DO ,https://www.google.com/maps/contrib/105012320879703891130/reviews?hl=zh-TW,3,True,311,冷氣開放，蒸肉圓比炸肉圓好吃，青菜湯走清淡路線，他們的辣椒看起來很一般吃起來非常辣，魚酥焿不推太稠了！滷肉飯普通，燙魷魚70元一盤新鮮好吃推！！
+ 芯瑜莊 ,https://www.google.com/maps/contrib/113052595560542802823/reviews?hl=zh-TW,4,True,5,中午時段內用，店內還有一兩桌空桌，但店外很多人排隊。牆上有不少名人簽名。每個品項都很不錯，價格也平易近人。十分推薦點滷豆乾，滷的又香又入味～
+ one (star) ,https://www.google.com/maps/contrib/108908796999919110978/reviews?hl=zh-TW,4,False,7,"🍽️清蒸肉圓+青菜湯$95
+行動支付：LINEPay/悠遊付/街口支付
+店內有漂白水的味道不知道是不是剛清潔完
+
+平常沒吃肉圓就不評了（上次吃肉圓不知道幾年前的事）
+印象中沒有看到辣椒(醬)有點可惜
+青菜湯就是一把地瓜葉
+有加油蔥會介意的話要提前說一聲
+湯不錯肉圓還好
+下次會想試試油炸的
+不知道會不會比較好吃"
+ 周羚 ,https://www.google.com/maps/contrib/105257720872365449114/reviews?hl=zh-TW,4,True,93,路過想填肚子剛好遇到，肉圓不錯醬汁也不錯，內餡就是筍絲跟肉，豬血湯是比較傳統的，環境乾淨，座位比較少
+ 詹喆文 ,https://www.google.com/maps/contrib/104590111492993664595/reviews?hl=zh-TW,4,True,303,"短評：內餡好吃有嚼勁的肉塊配上筍乾，是我個人比較少吃到的新竹肉圓！
+
+單純路過外帶吃吃看，但是因為開車，很晚才吃，所以口感多少都會不同！
+
+肉圓皮一般般，醬也是有別於一般的米醬
+內餡像是紅槽肉之類的紅紅的！搭配筍乾的香味，個人覺得好吃😁😁
+肉圓不大顆，一顆價格是50元稍貴一點，但以食材來說，也算能夠接受！
+
+店家還有蒸肉圓可以選擇，很少看到店家蒸的炸的都有，大家有經過可以試試^^
+
+2022/10/28"
+ Hsiao wen Ke ,https://www.google.com/maps/contrib/103693042928999098366/reviews?hl=zh-TW,5,True,73,肉圓有蒸、有炸，裡面的的料很夠味、筍乾也好吃😋，環境很乾淨、老闆很親切，難怪大家都很推
+ Zoïc-Sébastien CHEN ,https://www.google.com/maps/contrib/114344085597493282179/reviews?hl=zh-TW,5,True,71,"萬華最好吃的「新竹紅糟肉圓」在這裡～^_^
+特製的「酸」辣椒醬，直衝頭皮，過癮極了！
+傳承第四代的好滋味，想新竹城隍廟小吃了～
+創於1910年目前是第二三四代在服務，人超好"
+ 洪Angela ,https://www.google.com/maps/contrib/113986785183649773157/reviews?hl=zh-TW,3,True,77,"肉圓內陷筍乾很多，口味偏酸
+蝦棗像是短版的蝦卷，但可以清楚吃到蝦子的口感，
+滷肉飯和燙青菜則是中規中矩👍"
+ Kuan Hsing ,https://www.google.com/maps/contrib/104471748790421995424/reviews?hl=zh-TW,4,True,131,"乾淨漂亮的小店，牆上有傳統文化的介紹、品牌來源
+很久沒吃到紅糟醬的肉圓，內餡豐富，吃起來不會過於油膩、死鹹
+但皮偏厚，如果點蒸的更明顯，口感不喜歡"
+ Lillian Chou ,https://www.google.com/maps/contrib/104606824041952197324/reviews?hl=zh-TW,5,True,325,小時候來吃過，沒想到已經傳承到第四代了，在美國的弟弟，只要回台灣一定要來吃，肉圓餡多皮Q彈，果然是百年的老字號。
+ 侯彥宇 ,https://www.google.com/maps/contrib/112205102126209909984/reviews?hl=zh-TW,4,True,29,"整體口味偏甜，好吃
+肉圓內料好實在
+不過有點小顆。
+如果便宜一點或附個清湯更佳"
+ Ivy Wang ,https://www.google.com/maps/contrib/110775634234861240151/reviews?hl=zh-TW,5,False,5,"剛好路過，店內整潔乾淨，牆面上的故事和圖像很吸睛，店員很親切，會主動指示廁所燈的開關。
+肉圓的餡料多！特別喜歡筍子和香菇末的口感，是會再造訪的店家！"
+ Jenny Chu ,https://www.google.com/maps/contrib/111215653813094976618/reviews?hl=zh-TW,4,False,113,"我是點清蒸的肉圓口味還不錯
+內餡也好吃（皮的部分有點沒印象）
+只是感覺肉放的有點少，幾乎都在吃筍子😅
+另外點了一份石花凍
+有點不太會形容那個口感，
+就是軟軟的，大概是軟到直接吞也可以～
+然後味道主要都是枸杞的味道～（可能枸杞味道比較容易壓過其他種味道）"
+ SHI RONG FU ,https://www.google.com/maps/contrib/101536691328541484642/reviews?hl=zh-TW,5,True,54,"1.綜合羹很有特色，味道很剛好，也沒有很濃的味精味，吃過會記得這個味道。
+2.肉丸（炸的）也很好吃，尤其是醬，清爽！
+3.石花凍也很喜歡，雖然有點覺得它甜了一點（吃完口內有點黏），但他還是會讓人再回來點第二次（因為吃的時候很清爽哈哈哈）
+__
+魯肉飯我覺得還好，吃不飽可以點啦XD
+是說辣椒醬好像是特殊的，就加在魯肉飯旁邊，不辣但很有滋味。要試試看喔！
+（後來看到別人沾肉圓吃就是了）"
+ 大熊貓 ,https://www.google.com/maps/contrib/113586504527278139137/reviews?hl=zh-TW,4,True,298,感覺這裡的肉圓比新竹當地的大了點。不管是醬汁的口味，還是內餡的味道，我個人還是比較喜歡彰化的味道，見仁見智吧。
+ Chun-Ming Chang ,https://www.google.com/maps/contrib/103728390737120615711/reviews?hl=zh-TW,4,True,"2,733","2021.12.26=★★★★☆
+◉簡評：新竹肉圓，紅糟味道鹹甜且帶淡淡酒香，就是個頭小了點。😁
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+在廣州街新開立的【川業肉圓】，前身是「萬華新竹肉圓」，創立於1910年，傳承111年老店，重新粉墨登場；店面不大，但環境乾淨，店員服務態度良好。
+
+☑肉圓油炸💰45=上桌，個頭很小的肉圓。外皮微酥，口感有彈，咀嚼中還帶有點黏性；紅糟醬鹹甜，帶有淡淡酒香，風味算細緻。內部豬腿肉有彈性，不過老，有用紅糟醃過，筍跟香菇風味中等，整體，5分。
+
+☑燙青菜💰35=上面有油蔥酥帶一點滷汁，上面有小滷肉塊，普，4分。
+
+☑滷蛋💰15=有鮮，口感有彈性，可以，4.5分。"
+ 雪巴士 ,https://www.google.com/maps/contrib/101070357085323369847/reviews?hl=zh-TW,5,True,6,"石花凍不會過於甜膩，喜歡愛玉的朋友很建議來試試
+肉圓有分油炸和清蒸，差別在於皮的口感
+清蒸的夾起來較黏牙，油炸的較QQ
+內餡是新竹肉圓那類的紅糟肉和香菇筍絲，紅糟肉不過鹹和乾柴，讚ㄛ
+店裡環境乾淨，桌面不黏膩（也沒有油垢味ㄛ"
+ Edward Jiang ,https://www.google.com/maps/contrib/104827168262714114127/reviews?hl=zh-TW,5,True,73,很不錯吃，肉圓本身醬料調的很用心，口感上也相當地嫩滑，只是稍微一點點不夠入味;這次讓我驚艷的是滷蛋跟滷百頁，真的是煙燻加老醬滷，相當好吃。值得回訪！
+ simon chung ,https://www.google.com/maps/contrib/101579707046061330449/reviews?hl=zh-TW,5,True,376,"2022/8/7
+肉圓皮薄又Q彈，口感不錯，內餡飽滿，肉丁有咬勁。
+肉圓醬汁調味很棒，不愧是老店。"
+ Shin ,https://www.google.com/maps/contrib/105493209411589572135/reviews?hl=zh-TW,5,True,83,"看評論才知道，原來我以前有來吃過同一家，但覺得現在比以前好吃，好特別的店家。
+炸的紅糟肉圓甜甜的，筍絲的清脆、肉的咬勁、皮的軟Q，搭配起來很完美~
+綜合羹比較喜歡魚酥的口感，羹湯泡軟後的軟Q口感很上癮。
+燙青菜(沒拍到QQ)滿大一盤的，調味也恰當。
+裝潢後的店面乾淨明亮，感受到年輕人帶來的活力，會再回訪！"
+ 黃小喵 ,https://www.google.com/maps/contrib/109603800585054073114/reviews?hl=zh-TW,5,False,11,2022.8.26今天第一次來吃，就被太好吃的蒸肉圓還有炸肉圓收服了，其他餐點也很好吃。下次還會再來！！！沒有照片只剩下杯盤狼藉，哈哈哈！推薦大家來吃吃。
+ 陳咅群 ,https://www.google.com/maps/contrib/117273945688758312523/reviews?hl=zh-TW,5,False,7,紅糟肉圓很好吃，是油炸的，另外還有清蒸的（限量），綜合羹屬於濃稠的口感，湯頭濃郁，也不錯👍
+ 筱筱儷 ,https://www.google.com/maps/contrib/104878866085041845538/reviews?hl=zh-TW,4,True,53,"當天經過剛好看過電視介紹過，就順道來品嚐。
+吃油炸肉圓及綜合羹，整體還可以，點清蒸的較不油.石花凍好吃😋"
+ Rita Huang ,https://www.google.com/maps/contrib/113435742146896057044/reviews?hl=zh-TW,5,True,544,滷肉飯很好吃，身為一個不愛吃飯的人都覺得好吃～滷肉很香，飯不會爛爛的，滷汁有膠質吃完嘴唇黏黏的（喜歡），價格在台北不會很貴
+ 吳拍子 ,https://www.google.com/maps/contrib/106857152156420768090/reviews?hl=zh-TW,5,False,4,炸肉圓皮很Q彈，內餡豐富紮實，豬肉很有彈性，還有香菇和筍，搭配紅槽鹹甜鹹甜，咬下去味道很有層次，從光緒33年傳承到現在的好滋味，真的是有龍會飛出來的美味！！！
+ 吳妍萱 ,https://www.google.com/maps/contrib/103138413478037468006/reviews?hl=zh-TW,5,True,28,"肉圓甜甜的滋味，超級好吃，辣椒醬很有特色，爽度+3000
+滷味也很用心、入味，不是隨便有顏色就好的醬油汁，而是貨真價實鹹甜香、經過時間熬煮的滷汁
+冷氣超強、環境舒適、老闆親切，飯後來一碗甜點石花凍，身心都滿足"
+ Sophia Liu ,https://www.google.com/maps/contrib/117750766988612657062/reviews?hl=zh-TW,5,True,81,"紅糟肉圓口味頗為特別，豬血湯很好喝；店內用餐環境舒適，店員也很勤勞的清潔，可用行動支付Linepay,很方便！"
+ 茱莉Julie ,https://www.google.com/maps/contrib/116775429249519277152/reviews?hl=zh-TW,3,True,51,之前透過外送平台訂餐，莫名其妙訂單被取消，今天下班剛好經過，想說就來現場買，肉圓好吃，但綜合羹的CP值就比較差，料少價高，現場要求醋多大辣，還有再Doublecheck，結果回家打開來吃，完全沒有依照要求的加辣也沒加醋，服務品質有待加強！
+ Misa Wu ,https://www.google.com/maps/contrib/109716131170111331998/reviews?hl=zh-TW,3,False,50,"有一些邊角有炸到微酥，整體粉調整比例不錯，餡料是筍絲跟紅肉一顆小香菇，味道不錯，就是有點貴？
+
+貢丸湯兩顆貢丸，貢丸蠻好吃的，但就是有點少？
+台北的正常發揮吧
+
+可以行動支付，蠻方便"
+ hat red ,https://www.google.com/maps/contrib/116864119005333082378/reviews?hl=zh-TW,2,True,200,"乾意麵出奇的好吃～推薦
+綜合羹的蝦仁普通，魷魚還不錯，湯頭就太雷了（鹹的要命）
+環境衛生感覺舒服"
+ Calcifer Chang ,https://www.google.com/maps/contrib/116470088873998269349/reviews?hl=zh-TW,5,False,2,"魚塊焿很出色，調味比例極好。肉圓皮Q得也恰到好處，調醬是討喜的古早味，可惜放了豆皮而不是竹筍。
+後記：店老闆有回覆說是放了鳳尾筍(不是一般筍的脆口感)，算是滿特別的體驗。"
+ 江小慧 ,https://www.google.com/maps/contrib/101529799672176047236/reviews?hl=zh-TW,5,False,24,"老闆親切客氣，肉圓有筍絲很好吃😋
+只是有點小顆。
+炸魚塊和魷魚羹也很好吃，
+值得推薦的百年老店。"
+ Ninja Garfield ,https://www.google.com/maps/contrib/115780921255201213230/reviews?hl=zh-TW,4,True,156,"看食尚玩家才去吃的
+肉圓🌟🌟🌟🌟醬料不錯，但油了點，因為人多
+羹類🌟🌟🌟湯頭個人覺得濃稠了點，麵煮的有點過頭，可能也是人多😅
+最後最推薦😋
+石花凍🌟🌟🌟🌟🌟🌟吃完透心涼，非常舒服😌😋"
+ 陳意貞 ,https://www.google.com/maps/contrib/117701910935730425753/reviews?hl=zh-TW,5,True,22,"心中最美味的新竹肉圓（川業肉圓）。老老闆堅持了傳統肉圓的作法。小老闆認真的態度！
+讓美味的食物可以在萬華繼續發揚光大。（我就是個吃貨）"
+ uglyway chen ,https://www.google.com/maps/contrib/113544497189795698061/reviews?hl=zh-TW,4,True,844,"小店夠衛生，很多地方用心經營
+炸肉圓皮偏硬，不夠Q
+炸魚塊焿好吃。"
+ 光光 ,https://www.google.com/maps/contrib/116687461176653331342/reviews?hl=zh-TW,3,True,311,"分別點了清蒸跟炸的，看不出差別，吃也吃不出差別有點微妙。
+整體口味沒有特別的亮點。
+服務佳，環境乾淨明亮，店內有多種電子支付可以使用值得嘉許。"
+ Luna Sung ,https://www.google.com/maps/contrib/102744871337471047558/reviews?hl=zh-TW,4,True,367,東西真的不錯吃，但價格偏高，不知道是不是因為重新裝潢後把成本灌在單價上
+ 卡士達 ,https://www.google.com/maps/contrib/110266569775656307041/reviews?hl=zh-TW,5,True,169,從小吃到大的新竹肉圓，皮薄且炸過之後Q彈好吃，內餡紅糟肉緊實不柴，幾乎每次來萬華都會買，這次因為外帶回去吃，老闆還特地交待因為醬汁是現煮的沒有加一些防腐的東西，回家若沒有馬上吃，醬包一定要先打開冷卻才不易壞掉。
+ joan chen ,https://www.google.com/maps/contrib/107274192774580890750/reviews?hl=zh-TW,4,True,657,"肉圓確實很小顆、味道還可以、辣椒有微酸口感
+羹湯還不錯、魚肉好吃"
+ Chris Ho ,https://www.google.com/maps/contrib/111184338407600485454/reviews?hl=zh-TW,5,True,217,作業台很乾淨，紅糟肉圓很好吃，好像懷念小時候的味道，旁邊有辣醬，加進去一起吃超級棒！
+ janet ,https://www.google.com/maps/contrib/114475942599902790118/reviews?hl=zh-TW,5,True,475,"新開的店家,魯肉飯不錯吃喔,飯比較偏軟味道適中……
+肉圓皮薄內餡料多實在又好吃……綜合羹也不錯吃……"
+ Sfd ,https://www.google.com/maps/contrib/102754145428437791403/reviews?hl=zh-TW,4,True,140,"清蒸肉圓的皮跟餡真的不太行
+好像是吃大顆水晶餃一樣的料，也太少了吧。
+貢丸超好吃，跟別家不一樣，推薦貢丸湯。"
+ Chloe Lin ,https://www.google.com/maps/contrib/107256749835183695820/reviews?hl=zh-TW,5,True,43,"原本是新竹肉圓，重新裝潢之後今天是第一天開幕「川業」，我們全家都很喜歡吃這家的肉圓，還會買冷凍的回家吃哈哈，豆乾滷的很入味😛😛😛
+裝潢很舒適，讚讚"
+ 周育如 ,https://www.google.com/maps/contrib/115959502173085336809/reviews?hl=zh-TW,5,True,83,"從小吃到大的肉圓店已經到第三代了欸，新裝潢很不錯，而且有新的蒸肉圓改天來吃吃，但炸肉圓還是我的最愛，紅醩瘦肉跟竹筍餡，醬料好吃，滷豆干也超香好吃豆干孔隙大才能把滷汁都吃進去，可惜滷花生還沒有出來下次來吃蒸肉圓滷花生跟炸魚塊😍
+廣州街165號原新竹肉圓"
+ Lisa ,https://www.google.com/maps/contrib/117395442512694351004/reviews?hl=zh-TW,5,True,26,"湯鮮甜味道很足，餛飩給的很大方！
+肉圓好吃，因擔心客人久候還多送一盤百頁豆腐小菜"
+ John Huang ,https://www.google.com/maps/contrib/112559193277616501178/reviews?hl=zh-TW,5,False,12,"看似簡單但滋味爽口又不馬乎
+吃得到真功夫老店新面貌耶也很令人舒服
+
+佩服第四代老闆取得的平衡😊"
+ 牛奶熊拉拉的奇幻冒險 ,https://www.google.com/maps/contrib/107678992170745894210/reviews?hl=zh-TW,5,False,5,"肉圓好吃，真材實料，不吃肉圓的我只吃他們的肉圓～～
+綜合羹味道也很棒呦～～也有在羹裡麵加飯加麵的選擇
+口袋菜單，乾麵也超好吃
+
+店內環境也重新裝潢，天花板還保留了以前的歷史，看起來更有味道
+牆壁的兩側老闆也有做美化，分別介紹了店內歷史及在地歷史
+真的很用心的在經營店家及在地文化
+內部環境整潔也做得不錯
+現在換第四代的老闆接手做
+私下問了小老闆為什麽店名叫川業
+他說川的意思是因為他們創立至今已111年
+業是因為第一代創始人(阿祖)的名字有業
+
+偷偷告訴正在看評論的你，他們第四代的小老闆很帥喔～～～"
+ Chung-Hao Cheng ,https://www.google.com/maps/contrib/103950258070004859223/reviews?hl=zh-TW,4,True,"1,092","1910年創立迄今超過百年的肉圓店，從新竹發跡後遷來艋舺，目前傳承到第四代改為現在的名稱。
+要內用就拿單子進去找位置坐，位置不大，有六張2人桌和三張4人桌，還有專門放醬料的檯面。
+點菜單上的肉圓有分油炸和清蒸，打星星推薦的除了肉圓，還有綜合羹和石花凍。
+點完拿單子去前面後要先付錢，再把單子下面截角拿回桌上放。
+店家是去年重新裝潢，還有吊隱式的冷氣，這個很好，夏天的時候還是夠冷。
+醬料台上有辣椒醬、胡椒粉跟黑醋，如果有吃辣，建議一定都要加。
+油炸的肉圓就是新竹肉圓的紅糟作法，內餡還有香菇和筍絲，皮吃起來很Q軟，整體味道不錯。
+綜合羹湯裡面有蝦仁羹、魷魚和魚酥，吃起來明顯就是蝦仁羹比較好吃，建議點蝦仁羹就好，羹湯的湯頭勾芡不平均，味道上也需要灑點胡椒粉和黑醋增加層次感。
+蝦棗炸的很酥，裡面很Q、蝦漿很飽滿，如果覺得皮太硬可以丟到羹湯裡，又是不一樣的口感。
+老闆得態度不錯，這裡跟隔壁人氣螺螄粉都營業到21:00，有機會再來試別的品項。"
+ pochen wang ,https://www.google.com/maps/contrib/105592199297066811173/reviews?hl=zh-TW,5,True,95,在有限的空間裡佈置的令人沒有壓迫的舒適用餐環境，兩旁的簽名牆和沿革介紹，讓人沉浸其中氛圍^_^肉圓皮彈牙，內餡的五香粉如果不要這麼重，更完美！
+ 任智維 ,https://www.google.com/maps/contrib/116478522526459685349/reviews?hl=zh-TW,5,True,35,"百年老店～四代傳承～
+口味不變～風味依舊～
+點三色豆～限量口罩～
+年輕老闆～超有創意～
+
+😄😄😄😄😄😄😄😄"
+ H.P. Yen ,https://www.google.com/maps/contrib/104587925007020789143/reviews?hl=zh-TW,3,True,523,店內座位區明亮乾凈，肉圓屬薄皮的，內餡與淋醬是紅糟口味，筍絲味偏酸，較不合我個人口味。
+ PengRong Chen ,https://www.google.com/maps/contrib/103873070792248122889/reviews?hl=zh-TW,4,True,191,"一顆炸的一顆蒸的，外表看不出來。
+喜歡炸過軟Q口感。"
+ Cindy Lee ,https://www.google.com/maps/contrib/106234419269610555812/reviews?hl=zh-TW,5,True,91,推推肉圓跟綜合羹都好好吃😋下次去還會再訪的店👍🏻💕
+ carol Wei ,https://www.google.com/maps/contrib/110460841413833270158/reviews?hl=zh-TW,5,True,52,"好吃好吃好吃
+好喝好喝好喝
+推薦推薦推薦
+可以續湯🥰🥰
+
+#油炸肉圓#地瓜葉#豆干#豬血湯"
+ 李名哲 ,https://www.google.com/maps/contrib/117765819585430379574/reviews?hl=zh-TW,5,True,62,"店面環境很棒，老闆也很客氣
+用餐的心情挺好的。
+
+第一次嘗試，只點了油炸的肉圓。
+皮吃起來不油膩，但不夠Q彈，比較可惜。
+印象深刻的是內餡，肉圓雖小但用料不錯~
+尤其是紅糟醬醃過的豬肉，非常之好吃！
+如果肉圓皮夠Q彈，就滿分了~
+
+下次再光臨，會想多嘗試其他品項~"
+ 蘇文妍 ,https://www.google.com/maps/contrib/111789438339111966706/reviews?hl=zh-TW,4,True,71,"同學帶我來吃老店的肉圓,說這是她從小吃到大的店,恰巧跟小老闆聊了一下,提到重新裝潢及產品定位的修正,果然爸爸跟兒子的想法有落差,但小老闆說最終達到共識~~~願意傳承的年輕人不簡單,一定要支持一下!"
+ Emily She ,https://www.google.com/maps/contrib/112283369293597087642/reviews?hl=zh-TW,5,False,6,"超推薦🔥🔥來萬華一定要吃🥰
+百年傳承的肉圓，口味獨特的小菜別的地方吃不到，結尾來個超透心涼石花凍，完美的一餐"
+ 楊門安 ,https://www.google.com/maps/contrib/103978314893403501302/reviews?hl=zh-TW,5,False,11,少年老闆辛苦了啦，今天我來你們家買魯肉飯，蝦仁羹，肉圓，店裡面的姐姐們，很親切的招呼，加油啦💪
+ Momo WU ,https://www.google.com/maps/contrib/108187950822790112842/reviews?hl=zh-TW,4,True,180,用餐環境乾淨，而且接受多元支付。點餐跟取餐都是自助，餐點好吃，來不及拍照。尤其是肉圓，裡面的肉好好吃。一個可能不太夠。
+ yinjhou jhan ,https://www.google.com/maps/contrib/112663835161324030567/reviews?hl=zh-TW,5,True,74,台北難得好吃的肉園，綜合羹意外料多。靦腆的小老闆，看起來平常有重訓。
+ jeff Huang ,https://www.google.com/maps/contrib/109138328161483228728/reviews?hl=zh-TW,5,True,14,意麵有古早味！肉圓Q彈好吃！綜合羹好喝！
+ Patty Kuo ,https://www.google.com/maps/contrib/110247299669053459454/reviews?hl=zh-TW,4,True,700,"整體來說味道都不錯，只是份量偏少。
+肉圓$45，滿小顆的，味道不錯。豬血湯$30，料不多，味道OK。燙青菜$35不錯吃。"
+ Fiona ,https://www.google.com/maps/contrib/107959562837815404891/reviews?hl=zh-TW,5,True,349,"有幸在圓山的市集遇見川業
+真的很好吃
+沒有吃過紅槽肉的肉圓
+超級美味多汁又便宜🤩"
+ 林佳容 ,https://www.google.com/maps/contrib/117704988528087660509/reviews?hl=zh-TW,4,True,679,還是炸的比較喜歡，皮稍微比較Q，不過一份$50真的有點不能太常吃。
+ 翁菁伶 ,https://www.google.com/maps/contrib/108629382097700023140/reviews?hl=zh-TW,5,True,44,老店新裝，從新改裝已經讓第三代接手了，ㄧ樣的好味道，服務更好更用心
+ 沐育文化-kevin ,https://www.google.com/maps/contrib/112469314108325864781/reviews?hl=zh-TW,5,True,39,"🎖🎖🎖🎖🎖
+
+一口吃下百年滋味，佇立在老城區的迷人肉圓，來自新竹的111年老店，本名新竹肉圓，如今由第四代接手後，致力於老店轉型，提供客人更好的服務體驗，也將店名調整為川業，川取自111年的川流不息，業來自第一代創辦人的名字之一，帶著老招牌走向新時代
+
+招牌的炸肉圓，來自新竹城隍廟的風味，以溫體豬後腿肉，搭配著南投埔里的香菇、嘉義鳳尾筍，再以淡淡酒香調味，成為了眼前這碗迷人的滋味，很貼心的是，第四代老闆為了符合現代人擔心口味油膩的問題，推出了蒸肉圓的新口味，給你百年傳統全新感受的口中體驗之旅
+
+吃完肉圓別忘了來碗貢丸湯，看似平凡無奇的街頭常見小吃，一樣來自正宗的新竹風城美食，更讓人驚豔的是，這一碗貢丸湯，是艋舺地區的第一碗，從川業自新竹帶來了這個口味，才開始在艋舺出現家家都有販售貢丸湯的風潮，一碗肉圓一碗湯，搭配著百年故事與歷史的傳承，真的是太值得一吃了❤️"
+ 廖冠羽 ,https://www.google.com/maps/contrib/118281701339435025776/reviews?hl=zh-TW,5,False,7,老闆服務親切帥氣，清蒸肉圓爽口，炸肉圓酥脆👍👍👍
+ 方彼得 ,https://www.google.com/maps/contrib/109280099431400328219/reviews?hl=zh-TW,5,True,52,"萬華在地的老店，有重新裝潢整修過。
+
+整體的用餐環境在萬華小吃店來說算是名列前茅的。餐點的水平也都維持著一定的水準。感受的到店家的用心。不錯。"
+ I&L ,https://www.google.com/maps/contrib/102340710516571432486/reviews?hl=zh-TW,4,True,192,肉圓好吃，下次還想試試看蒸的。舒適的用餐環境，服務也不錯。
+ 子玄林 ,https://www.google.com/maps/contrib/114341880376163523066/reviews?hl=zh-TW,5,False,2,紅糟肉圓超好吃，滷肉飯魚酥庚都相當不錯，環境乾淨，服務親切
+ 林純如 ,https://www.google.com/maps/contrib/110367928571723005247/reviews?hl=zh-TW,5,True,13,"好久沒有吃的肉圓換新裝了!
+東西還是一樣好吃。
+現在來店打卡評價有小禮物喔☺"
+ Yeh chunling ,https://www.google.com/maps/contrib/104248561627303110156/reviews?hl=zh-TW,5,False,2,"肉圓皮Q餡多紅糟肉餡香氣十足
+肉羹料多實在湯頭順口不膩"
+ 趙敏翔 ,https://www.google.com/maps/contrib/100486638396699805505/reviews?hl=zh-TW,5,True,198,"用餐環境很乾淨
+東西也都好吃，尤其蝦棗跟石花凍"
+ edith ying ,https://www.google.com/maps/contrib/110210288301788381694/reviews?hl=zh-TW,3,True,209,"皮是有嚼勁、黏性的地瓜粉
+內餡紅糟肉還可以
+唯一有意見是沒香菇、太油"
+ 李嫚珈 ,https://www.google.com/maps/contrib/103641923915315264729/reviews?hl=zh-TW,5,False,4,"太帥了！竟然傳了四代了，而且炸的跟蒸的都有！不用戰啦w
+（補充
+好吃！裡面的餡料豐富，口感好"
+ 阿豆仔的生活日常ADO'S LIFE ,https://www.google.com/maps/contrib/108127354044843619745/reviews?hl=zh-TW,5,True,30,在地萬華龍山寺周邊美食老店，最有名氣就是他們家的肉圓飽滿的餡料皮也很Q彈好吃第四代老闆也很親切帥氣服務很棒。
+ chun chen ,https://www.google.com/maps/contrib/107666564761075080222/reviews?hl=zh-TW,5,True,117,店內乾淨，舒適。肉圓不錯吃！當點心吃，7歲小朋友可吃一份。
+ Tata Chen ,https://www.google.com/maps/contrib/111473709038204574147/reviews?hl=zh-TW,5,True,295,"油炸肉圓+貢丸湯+蝦棗
+喜歡它的紅槽醬，還有肉圓裡有滿滿的筍片"
+ YA RU YU ,https://www.google.com/maps/contrib/105929718409891954725/reviews?hl=zh-TW,4,True,35,環境乾淨整齊，東西也不錯吃，唯一美中不足青菜鹽巴沒拌勻，吃了兩大口的鹽😅
+ Yang A-hui ,https://www.google.com/maps/contrib/115237087060872975609/reviews?hl=zh-TW,5,False,3,"肉圓好吃😋第四代老闆年青有為👍
+下次要找機會去店裡拜訪～"
+ 李政彥 ,https://www.google.com/maps/contrib/113233643197195373575/reviews?hl=zh-TW,5,False,10,"雖然不常吃肉圓的我來說這家百年老店的肉圓是真的非常好吃不知不覺吃了三顆肉圓突然有點罪惡感肉圓香彈肉羹香氣十足
+味道濃厚而最好吃的豆乾魯得很透氣味很讚"
+ Jessica ,https://www.google.com/maps/contrib/112120638169480511175/reviews?hl=zh-TW,4,False,19,"店家非常客氣
+店內環境算乾淨明亮
+當天吃的炸類（炸蝦棗、炸魚塊）表現都不錯
+尤其是炸蝦棗外層薄酥內軟嫩
+燙青菜油蔥給很多、醬汁也有肉湯味很好吃
+肉圓的紅糟醬也不錯吃
+
+不過本體的肉圓我覺得還好
+裡面的肉咬到很大塊的筋
+蒸的肉圓皮有點粉感
+炸的皮粉感比較少然後多一點彈性
+感覺他的肉圓本來就是要吃炸的比較好
+蒸的肉圓還是台南的那種皮比較好吃"
+ Manic Peng ,https://www.google.com/maps/contrib/104099353534655840910/reviews?hl=zh-TW,3,True,767,"看店裡的說明是老店新裝潢，位子不多，但最近內用的人少，坐起來很舒服，不會顯得侷促。
+食物來說首推表皮酥脆的炸蝦棗，雖然4顆60元，但肉質彈牙且鮮味無窮，讓人齒頰留香回味不已。綜合羹料小碗70元單價較高，但其實料不少，其中的蝦仁羹最為好吃。燙青菜一份35來說份量算多的，調味也吃得出一定的用心。
+肉圓一顆45元，用料紮實。個人偏好清蒸比較不膩且好入口，油炸的表皮Q彈口感略有不同。裡面紅糟肉鹹中帶酸，頗為特別，雖然沒有很合我的胃口，但口感豐富，也還算好吃。"
+ tree L ,https://www.google.com/maps/contrib/100632508304824320367/reviews?hl=zh-TW,2,False,36,肉圓的皮已經與以前完全不同了，變得不好吃，內餡的竹筍這次有苦。
+ JuntaTachibana ,https://www.google.com/maps/contrib/112264154902336104390/reviews?hl=zh-TW,5,False,15,肉圓超香，重點是清蒸油炸都有，不用戰！超讚！
+ Shih-Lan CHIANG ,https://www.google.com/maps/contrib/105316141985672515224/reviews?hl=zh-TW,5,True,62,"老店新開幕，老闆很好客親切，
+肉圓（清蒸）好吃，配上現做的魚塊羹😋，讚喔👍"
+ Wei Wu ,https://www.google.com/maps/contrib/109341057321277487415/reviews?hl=zh-TW,2,True,155,"外帶清蒸的肉圓皮好像沒有熟，不嫩很Q，還吃的到粉塊，炸的倒是沒這個問題。
+豆干很好吃，秘製三色豆也不錯，就是份量少了點，餛飩湯很一般，乾麵也一般水平。"
+ 露露 ,https://www.google.com/maps/contrib/117703466165665530994/reviews?hl=zh-TW,1,False,80,"超小一顆肉圓重點是難吃，買蒸的皮根本不Q，沒人買蒸太多次？蒸爛了？
+不懂評分為何這麼高，一顆50好吃就算了，
+吃兩口皮，最後只挖他的料吃料也是普通
+糟糕的品質"
+ 吳靜芳 ,https://www.google.com/maps/contrib/103976114323545255867/reviews?hl=zh-TW,5,True,64,從小吃到大，搬到哪就吃到哪，熟悉的味道，就是好吃
+ 謝仁 ,https://www.google.com/maps/contrib/103088231464310915728/reviews?hl=zh-TW,5,True,39,吃這家肉圓超過40年了，還是保持原來的老味道好吃!
+ 姜真如 ,https://www.google.com/maps/contrib/113914247260513149863/reviews?hl=zh-TW,5,True,4,好吃的肉圓，豆干滷得很透。
+ 吳興建 ,https://www.google.com/maps/contrib/108586039508542013089/reviews?hl=zh-TW,5,False,1,"今天下午去吃，謝謝年輕老闆親切介紹菜色（蝦棗），肉圓很好吃、有別於其它北部口味。
+炸物份量足/味道好（大推炸蝦棗），如果想吃新竹口味的肉圓，就直接來川業吃吃看吧。"
+ 簡郁軒 ,https://www.google.com/maps/contrib/116051668055946157695/reviews?hl=zh-TW,3,True,164,肉圓偏軟爛，醬汁蠻特別的，可以吃看看，不過油沒有瀝乾，肉眼可見底下一層油
+ Kun ,https://www.google.com/maps/contrib/101820550035659896661/reviews?hl=zh-TW,5,False,11,多年的好味道，從小吃到大的肉圓，有越來越好吃的趨勢！邊吃肉圓邊留評論，不知不覺就要吃完了....好想再來一顆🤤
+ 王維 ,https://www.google.com/maps/contrib/100223014581659532044/reviews?hl=zh-TW,5,False,1,好吃的肉圓，大家快來捧場
+ EINNOB ,https://www.google.com/maps/contrib/103638690955068230657/reviews?hl=zh-TW,5,True,666,"肉圓油炸很好吃‪！帶有淡淡酒香的紅糟味，外皮微酥、口感超Q彈💕
+今天看到有幾組客人都好麻煩…，但每個店員脾氣都還是很好，覺得讚讚‪！！"
+ yuyu lin ,https://www.google.com/maps/contrib/111929419536790317794/reviews?hl=zh-TW,3,True,77,肉圓一個45元，點了一個蒸的一個炸的，兩個外表看起來一樣...但炸的皮比較Q，吃完後下面都是油，不想吃太油膩的可以選蒸的，筍乾吃的到賣南北雜貨乾糧的那種味道
+ 陳建志 ,https://www.google.com/maps/contrib/111574867728778647268/reviews?hl=zh-TW,5,True,49,花博活動買來吃，料多美味，有炸的或蒸的可以選。
+ T Wang ,https://www.google.com/maps/contrib/111638786986468078261/reviews?hl=zh-TW,5,True,76,肉圓好吃。羹湯料處理的很好，湯頭略淡。環境優。
+ Joanne chou ,https://www.google.com/maps/contrib/104095403535674492620/reviews?hl=zh-TW,5,False,5,選了清蒸的，皮Q肉嫩的紅糟肉圓，好吃！
+ 尹甄 ,https://www.google.com/maps/contrib/107993717364767196069/reviews?hl=zh-TW,3,True,122,沒有第一次吃的驚喜感了😅
+ 張方橋 ,https://www.google.com/maps/contrib/116468583397055152059/reviews?hl=zh-TW,1,False,3,東西有夠難吃，羹湯完全跟水煮的沒兩樣完全沒味道，點的魷魚羹裡面的魷魚全部都有阿摩尼亞的味道，有夠噁，吃一口完全拿去丟掉，湯跟麵分開放還不是爛成一坨，定的外送備註也不看，給一顆星實在太多了，有負評我一定給妳五星負評！肉圓也是，裡面居然還有不只一根頭髮，真的是傻眼
+ 龍非凡 ,https://www.google.com/maps/contrib/110193863621342382808/reviews?hl=zh-TW,3,False,9,以前很愛吃你們家的。每次經過都會吃，但改名後味道感覺變了，雖然店內變乾淨了但味道也變了，不知道是否有改變什麼？？如果有改，希望可以有原本的肉圓可以選擇
+ ya ,https://www.google.com/maps/contrib/101317015998949683131/reviews?hl=zh-TW,3,False,3,我點的時候是外送，吃完肉圓跟羹湯後吃個石花凍我肚子就開始痛了。（不是便秘的痛我沒便秘，吃之前就有大過了）之後等我家人買腸胃的藥才好的！我家人也有吃肉圓跟羹湯但沒事，我想是不是石花凍的關係。我本身吃寒天、菜燕類都沒這樣過。石花凍是吃完熱隔一段時間吃的。但痛了一整天，我下次不敢點了
+ _千._. ,https://www.google.com/maps/contrib/108062716076688090942/reviews?hl=zh-TW,5,False,1,"今天跟店家訂外送，
+不但準時送到還有幫我分箱子裝
+ʕ•ᴥ•ʔ讚啦
+雖然肉圓跟我想像中的不一樣哈哈
+比較小顆一點
+不過整體來說店家態度良好東西也好吃"
+ kuang wu Huang ,https://www.google.com/maps/contrib/108823574063389255729/reviews?hl=zh-TW,5,False,24,價格貴了一點點，但是是難得在台北吃得到覺得好吃的肉圓。👍
+ Hung Wang ,https://www.google.com/maps/contrib/103936852307835374455/reviews?hl=zh-TW,5,False,5,"台北最用心的手工肉圓
+蒸的炸的都好吃"
+ Cevilla Chen ,https://www.google.com/maps/contrib/100336110318063703249/reviews?hl=zh-TW,5,True,47,萬華百年祖傳紅糟肉圓改名川業肉圓，期許人潮川流不息
+ 許秀芳 ,https://www.google.com/maps/contrib/115037243822034095795/reviews?hl=zh-TW,3,True,290,肉圓粉漿沒調勻，會吃到不同粉塊，調味漿還好，羹湯偏甜有腥味，料少，有進步空間
+ 宋立仁 ,https://www.google.com/maps/contrib/106277739204711633691/reviews?hl=zh-TW,3,True,727,"三顆星就是普通。
+沒有到很好吃一定會再來吃的程度，但是也不差。
+先前一位也給三顆星的評論，分析的很清楚，我完全認同+1！"
+ Yang Steven HC ,https://www.google.com/maps/contrib/110126897279517825255/reviews?hl=zh-TW,5,True,105,"肉圓香脆好吃，蝦棗外酥內軟。
+店內重新裝潢後很乾淨舒服。"
+ 韓馥徽 ,https://www.google.com/maps/contrib/111662332103064198407/reviews?hl=zh-TW,5,True,366,"石花凍很軟又濃郁是我吃過最好吃的
+炸肉圓小小一顆但料非常的飽滿
+如果油能夠再瀝乾點口感會更好"
+ Peiyu Kuo ,https://www.google.com/maps/contrib/112335137297225414054/reviews?hl=zh-TW,5,False,2,超好吃的紅糟肉圓，外帶小碗肉羹湯超大碗、料實在，我還以為老闆做成大碗的了😂來龍山寺一定要吃！
+ 江愛坤 ,https://www.google.com/maps/contrib/111739966049235506125/reviews?hl=zh-TW,2,True,740,"綜合羹麵比肉圓好吃太多
+油麵麵條好吃也特別
+16點去時店內施工
+座位離太近吵到不行
+店內乾淨整潔服務好"
+ Winnie ,https://www.google.com/maps/contrib/101279590058550228150/reviews?hl=zh-TW,5,True,99,三顆小肉圓肉肉超多超好吃😋
+ emma Lin ,https://www.google.com/maps/contrib/103370907919485819262/reviews?hl=zh-TW,5,False,6,"四代老闆人超nice，東西超級好吃
+肉圓超Q嫩，石花凍在這炎熱的夏天很解暑
+有機會會到店面品嚐，哪怕是在市集也是美味十足呀！！誒"
+ Yi Jazz ,https://www.google.com/maps/contrib/114874924635376922811/reviews?hl=zh-TW,5,False,7,"肉很紮實，肉圓皮嚼勁很Q。
+醬油的搭配很確實、均勻。
+很高興在萬華的肉圓能吃到這麼高品質的肉圓。"
+ Yun Hsuan Liu ,https://www.google.com/maps/contrib/108794942524538003165/reviews?hl=zh-TW,5,False,3,"這裡的豬血湯真的很好喝～
+每次都忍著不要再多點一碗XD
+店員和老闆親切
+每次來吃都覺得很舒服"
+ venus kuo ,https://www.google.com/maps/contrib/102309043777760318350/reviews?hl=zh-TW,5,False,2,推肉丸～內餡紅糟肉&筍子有嚼勁不油膩、外皮Q軟，吃了一顆不夠吃，好吃到必需加點第二顆～
+ 郭政諺 ,https://www.google.com/maps/contrib/107966377072525401717/reviews?hl=zh-TW,4,True,44,店內乾淨整潔，經過第四代改裝後更顯特色，肉圓十分Q彈好，與甜甜的紅糟醬很搭，中間的肉塊和筍子更是美味，只可惜肉圓偏小，但適合下午來吃個點心！
+ 李先耀 ,https://www.google.com/maps/contrib/113017821807575495588/reviews?hl=zh-TW,5,False,9,肉圓好吃😋，在地老店～超推！
+ Lzy909 Axym ,https://www.google.com/maps/contrib/115445604438638866972/reviews?hl=zh-TW,4,False,24,"點了小綜合羹口味偏甜
+份量還算夠有蝦子赤肉和泡水魷魚
+湯頭本身有烏醋味"
+ / chris ,https://www.google.com/maps/contrib/107984567578069720407/reviews?hl=zh-TW,5,False,63,"看得出來有用心經營，支持優良店家。
+餐點還行，服務好，出餐快，環境乾淨，小吃能做成這樣，很值得推薦。"
+ Stella Lai ,https://www.google.com/maps/contrib/101125932943976332933/reviews?hl=zh-TW,4,True,122,"食物本身8/10，但價格有點太高
+一顆$50，真的不大顆
+不需專程來一趟，路過可試試"
+ 黃淑敏 ,https://www.google.com/maps/contrib/112916874167492361791/reviews?hl=zh-TW,4,True,48,紅槽肉圓和豬血湯都好吃
+ 汪怡伶 ,https://www.google.com/maps/contrib/112821953948159649120/reviews?hl=zh-TW,5,False,4,好吃！從小吃到大，讚～
+ 陳靜宜 ,https://www.google.com/maps/contrib/111192252075655298234/reviews?hl=zh-TW,5,False,2,肉圓超好吃的推薦給大家😊
+ yun ch ,https://www.google.com/maps/contrib/110468407706367331846/reviews?hl=zh-TW,5,False,7,"肉圓內餡食材味道很好
+筍絲處裡的很好沒有酸臭味👍
+老闆服務超好"
+ 曾幸涵 ,https://www.google.com/maps/contrib/101550447773377173402/reviews?hl=zh-TW,5,False,16,肉圓好吃，魯肉飯也好吃，但羹湯太稠，蒜酥放太多
+ Alan Huang ,https://www.google.com/maps/contrib/110902587381835301616/reviews?hl=zh-TW,5,False,5,服務人員很親切，肉圓跟羹麵超讚！！只要經過萬華，必定朝聖的小吃店，推推推！！！
+ 北濤 ,https://www.google.com/maps/contrib/116753503126622176403/reviews?hl=zh-TW,3,False,11,肉圓味道還不錯但量稍微少一顆50元頗貴
+ Max Lu ,https://www.google.com/maps/contrib/112243569181400291893/reviews?hl=zh-TW,2,False,7,筍子就算了不懂”新竹”肉圓為什麼要加香菇台北的新竹肉圓真的都不好吃…然後百頁超級鹹…
+ Ruei-Yuan Yen ,https://www.google.com/maps/contrib/114365774412446273448/reviews?hl=zh-TW,5,False,4,肉圓好吃。人很親切。
+ Ryan Sun ,https://www.google.com/maps/contrib/105473444352227470838/reviews?hl=zh-TW,5,False,2,好吃喔！百年老店推薦。
+ 劉燕芳 ,https://www.google.com/maps/contrib/107726900939277569845/reviews?hl=zh-TW,5,False,2,老店肉圓好吃唷！
+ 蕭芷婕 ,https://www.google.com/maps/contrib/106075082359087555309/reviews?hl=zh-TW,5,False,3,超好吃！老闆親切🥰
+ Lynn Lin ,https://www.google.com/maps/contrib/115215530009758409818/reviews?hl=zh-TW,5,True,30,連叫外送吃起來也跟內用差不多好吃！
+ Lui Liao ,https://www.google.com/maps/contrib/101745965155165271755/reviews?hl=zh-TW,5,False,1,吃宵夜的好選擇，推薦給大家🤗
+ Charlotte C ,https://www.google.com/maps/contrib/105787639487845146357/reviews?hl=zh-TW,5,False,6,有清蒸和油炸兩種口味傳承112年的好味道歡迎到現場支持！
+ 特務黑 ,https://www.google.com/maps/contrib/114562963883506057205/reviews?hl=zh-TW,3,True,86,看了高評價而來，結論是有點遺憾，除了魚塊羹湯跟豬血湯，味道是比較好的之外，其他的都有點可惜。
+ HaHa Dog ,https://www.google.com/maps/contrib/110944482268303469466/reviews?hl=zh-TW,4,True,93,很喜歡的肉圓，豬血湯也超愛，值得推薦的店家
+ A-Liang Chen ,https://www.google.com/maps/contrib/100901416135549045351/reviews?hl=zh-TW,5,False,57,肉圓外皮Q軟，醬汁帶著甜味，讓人想起故鄉的味道
+ 翰Han ,https://www.google.com/maps/contrib/104215304085434852065/reviews?hl=zh-TW,4,True,99,老闆親切，餐點好吃
+ 陳思帆MayChen ,https://www.google.com/maps/contrib/100176056611354621665/reviews?hl=zh-TW,5,True,201,在萬華區的店能來花博擺，離家近，👍
+ Sally Haung ,https://www.google.com/maps/contrib/110856202102817284395/reviews?hl=zh-TW,5,True,177,紅糟肉丸從小吃到大，現在有清蒸的喔！
+ 武大雄（熊爸） ,https://www.google.com/maps/contrib/113689905166899243187/reviews?hl=zh-TW,5,False,4,服務親切，肉圓好吃👍
+ Hana Hsu ,https://www.google.com/maps/contrib/105501823882553471035/reviews?hl=zh-TW,5,False,6,"很喜歡吃炸肉圓，川業的肉圓味道很好
+乾意麵也很好吃😋"
+ Karen Chang ,https://www.google.com/maps/contrib/101769804795945744942/reviews?hl=zh-TW,5,False,9,川業肉圓實在美味好吃喔😋
+ Lesley Chen ,https://www.google.com/maps/contrib/110866486672626716773/reviews?hl=zh-TW,5,False,7,老闆很親切～食物好吃～
+ 洪詩媛 ,https://www.google.com/maps/contrib/107928602033137785821/reviews?hl=zh-TW,5,False,4,炸肉圓好吃！店員也都很親切～
+ 洪竹欣 ,https://www.google.com/maps/contrib/114401244164355322325/reviews?hl=zh-TW,5,False,5,肉圓好吃，老闆很幽默～
+ 芸 ,https://www.google.com/maps/contrib/110696657292619860960/reviews?hl=zh-TW,5,False,3,"石凍超好吃的!
+滷肉飯也不會太鹹!好吃!
+老闆很親切都笑笑的!身材很好("
+ Johnny Cheng ,https://www.google.com/maps/contrib/101108553868737456041/reviews?hl=zh-TW,4,True,596,肉圓還不錯，比也很Q，不過沒什麼記憶點
+ Shani Chang ,https://www.google.com/maps/contrib/112214686496459860450/reviews?hl=zh-TW,5,False,11,第一次吃，裝潢看起來很新但其實是百年老店重新裝修做品牌！環境乾淨舒適明亮，價格平實肉圓好吃😋😋
+ 周小光 ,https://www.google.com/maps/contrib/102826444837870709727/reviews?hl=zh-TW,5,True,136,"叫ubereat來的好吃外送！
+先來說小缺點：
+單點的石花凍忘記了XD我可是很期待的！
+肉圓內餡偏酸，羹湯湯頭偏甜……
+
+優點：
+羹湯裡的所有內容物都非常好吃，不管肉羹，魷魚，蝦仁羹還是魚酥都很棒！
+蝦棗配上辣椒醬挺特別的口味，喜歡！！
+地瓜葉撕的很乾淨，也有遵照囑咐不加油蔥酥
+肉圓，我覺得以外送平台來說，沒有100也有90啦😘😘😘
+小老闆加油"
+ 林宸安 ,https://www.google.com/maps/contrib/105511481066284493326/reviews?hl=zh-TW,5,False,5,"肉圓好吃，內陷實在，皮Q好吃。
+餛飩湯裡面的餛飩也很熱鬧（很多），便宜又好吃。
+老闆也很親切，讓客人覺得賓至如歸。"
+ hsin fang chang ,https://www.google.com/maps/contrib/116495952315946766977/reviews?hl=zh-TW,5,True,77,完食。彰化人認證好吃肉圓，跟新竹肉圓完全不一樣，很好吃喔😋
+ 賴賴 ,https://www.google.com/maps/contrib/117605805487071507614/reviews?hl=zh-TW,5,False,3,好吃，支持第四代老闆
+ 林明哲 ,https://www.google.com/maps/contrib/116912570840513668664/reviews?hl=zh-TW,5,False,6,生意很好，老闆人很客氣，好吃，又可用熊好卷，讚
+ Tzung Tang Lee ,https://www.google.com/maps/contrib/117193702391575355849/reviews?hl=zh-TW,5,True,75,簡單的滷肉飯+肉羹湯就百吃不膩，推~~
+ Chi史東 ,https://www.google.com/maps/contrib/108236970095083056615/reviews?hl=zh-TW,4,True,"1,606","肉圓還不錯清蒸是限量的
+服務態度超級親切
+可以街口支付linepay"
+ yitin ,https://www.google.com/maps/contrib/104438422953269405845/reviews?hl=zh-TW,5,False,17,"「更新：沒想到店家這麼用心回覆，這個服務態度超過100分～沒關係的，人都會有不小心的時候，辛苦了O(∩_∩)O」
+/
+
+剛好在剝皮寮看到展覽介紹川業，走出來剛好川業就在眼前，外帶一個肉圓一碗魚酥羹
+
+肉圓是紅糟，蠻特別的，可以嘗試。但大小偏小。
+
+魚酥羹裡面沒有魚酥……還要$60，就這樣喝了三分之二，我就受不了0.0（我的魚酥呢Q口Q"
+ Tim Chen ,https://www.google.com/maps/contrib/113857207398915044383/reviews?hl=zh-TW,4,True,336,"紅糟肉圓皮Q餡鮮，好吃！
+另,羹湯蒜味十足且汁濃味美，跟肉圓確實超搭！"
+ Jacky Hsieh ,https://www.google.com/maps/contrib/117175604232690235466/reviews?hl=zh-TW,3,False,25,"味道也太不穩定了吧
+上星期覺得超好吃，這星期味道實在很糟
+魯肉飯如果還沒魯透的就拿出來賣乾脆不要賣
+肉圓這星期也是，我還寧可坐火車回新竹吃
+
+Re:
+魯肉飯肉皮跟肉油還沒完全魯透，還是硬的
+肉圓的內餡就味道很穩定，但皮像是只過油而已，沒我在新竹吃的那種不油但Q脆邊緣的口感，今天只吃到油油的感覺"
+ 光田 ,https://www.google.com/maps/contrib/103836753551176579505/reviews?hl=zh-TW,4,False,12,麵口感偏硬，但剛好喜歡這種口感，喜歡的朋友可以來試試，肉圓我吃蒸的，外皮Q彈，內餡豐富，只不過新竹很久沒去了，我記得以前是兩粒，這邊只有一粒，價格還是略高點
+ 許金蘭 ,https://www.google.com/maps/contrib/105111871779777654014/reviews?hl=zh-TW,5,False,1,回到萬華必吃美食，強烈建議大家來品嚐💕
+ ONTER bo ,https://www.google.com/maps/contrib/102385729229565198166/reviews?hl=zh-TW,5,True,6,"從小吃到大非常推薦蒸的肉圓炸的肉圓魚酥肉羹很好吃
+到萬華必吃"
+ 曾聰明 ,https://www.google.com/maps/contrib/116301390177707041002/reviews?hl=zh-TW,4,True,330,巧遇老老闆，門口前道路施工中，只能機車停在店門口走廊裡。今天適巧施工單位點餐在先，所以等的較久。
+ Jackson ,https://www.google.com/maps/contrib/117679942335640375900/reviews?hl=zh-TW,4,True,"1,414","炸肉圓好吃，肉有點少.
+
+謝謝回覆.有機會一定再回購"
+ 江宜陞 ,https://www.google.com/maps/contrib/115220654579217903309/reviews?hl=zh-TW,5,False,11,"肉圓和羹都好吃
+
+百年老店的故事很有趣"
+ Leen Raquel ,https://www.google.com/maps/contrib/118034213720629724088/reviews?hl=zh-TW,5,True,99,蠻好吃的，而且老闆重新裝潢以後感覺變感覺明亮，與時俱進，下次我還是會再次消費
+ 林子傑 ,https://www.google.com/maps/contrib/108861636318865428468/reviews?hl=zh-TW,5,False,6,下午逛完街肚子餓了不小心闖入如此美味的小吃店驚為天人，老闆熱情、東西好吃、份量都吃得飽，四代百年傳承小吃店，走過路過不要錯過，很獨特的紅槽味的肉圓，特別推薦小吃滷豆干很入味很香，可惜今天沒吃到清蒸的🥺下次再來補上清蒸肉圓😋😋😋
+ 蔡青蓉 ,https://www.google.com/maps/contrib/103277772256744863830/reviews?hl=zh-TW,5,False,5,老闆很用心人很好餐點超好吃店內環境好兼具年輕氣息跟艋舺文化🤍
+ 鄭小蕙 ,https://www.google.com/maps/contrib/105575861810806667116/reviews?hl=zh-TW,4,False,24,肉圓不錯吃！👍
+ 李政諺 ,https://www.google.com/maps/contrib/103252201898470720909/reviews?hl=zh-TW,5,True,50,"徒步環島來到這裡
+感謝老闆熱心招待
+肉圓好好吃
+
+下次會再來訪的！"
+ 陳盈璇 ,https://www.google.com/maps/contrib/116198496769411248465/reviews?hl=zh-TW,5,False,16,川業新裝潢，乾淨、整潔又明亮，不變的是食物依舊好吃且價格實惠，每次來都飽足又滿足！！
+ CJ ,https://www.google.com/maps/contrib/111201598103890913842/reviews?hl=zh-TW,5,True,14,肉園好吃，飲料好喝
+ 周天心 ,https://www.google.com/maps/contrib/103806896178672312050/reviews?hl=zh-TW,5,False,3,肉圓就是要炸😋
+ 豬五花 ,https://www.google.com/maps/contrib/102365396798575953235/reviews?hl=zh-TW,2,False,20,"看到食尚玩家推吃完感想像踩雷
+羹湯肉圓都很冷還不如吃螺絲粉"
+ Zoe Chen ,https://www.google.com/maps/contrib/108795685830242145066/reviews?hl=zh-TW,1,True,106,"已經吃230年我愛的店，每次都吃肉羹米粉或麵，自從改了店名第一次吃就覺得湯頭變甜不喜歡
+昨天又去試一次，一樣甜而且肉羹都是粉，漲價一碗70元，實在讓我很失望(這是個人的口感問題）"
+ oney m ,https://www.google.com/maps/contrib/113081241304450491463/reviews?hl=zh-TW,5,False,10,"肉圓有兩種：炸的和蒸的
+都很好吃！！！
+還有蝦棗必點大推👍👍👍"
+ 鄭茟璓鄭茟璓 ,https://www.google.com/maps/contrib/114359143733065271648/reviews?hl=zh-TW,3,False,3,豆乾很香很好吃，清蒸肉圓還ok
+ 安安an_0417 ,https://www.google.com/maps/contrib/105246193958997759813/reviews?hl=zh-TW,5,False,5,萬華老店，每次必來吃的肉圓。皮Q超級好吃😋
+ Kun Yu Tsai ,https://www.google.com/maps/contrib/111752689517529309572/reviews?hl=zh-TW,5,True,69,很好吃，但講了兩次不要加香菜還是有香菜QQ，因為很怕沒聽到所以講了兩次，怎麼樣可以真的避免這件事情嗚嗚嗚
+ Y C ,https://www.google.com/maps/contrib/112356462031504932442/reviews?hl=zh-TW,2,True,84,"肉圓跟羹湯的口味普通，肉圓內餡不知道為何有酸味==？
+一顆肉圓賣45元也太貴了吧⋯⋯"
+ ying chun lai ,https://www.google.com/maps/contrib/103801734727128127679/reviews?hl=zh-TW,5,True,290,平價美味，內用環境也很感覺，棒棒der
+ 王王王 ,https://www.google.com/maps/contrib/108279043521242416759/reviews?hl=zh-TW,5,True,45,"小時候從這間還在艋舺公園外臨時位置就吃過了，
+我還記得我跟媽媽吃，
+小老闆在後面寫功課😆，
+小老闆真的很有勇氣敢於改變，
+做吃的說簡單很簡單，
+說困難也很困難，
+因為眾口難調，
+我點了魷魚羹、滷肉飯、肉圓（蒸、油各1）、炸魚塊，
+我本身是覺得口味偏清淡（不夠鹹）
+但除了這點之外蠻好吃的，
+也沒什麼奇奇怪怪的味道，
+個人覺得改得蠻成功的👍
+祝生意興隆❤️"
+ Yi-Ling Kuo ,https://www.google.com/maps/contrib/112046533129616977974/reviews?hl=zh-TW,5,False,9,肉圓好吃😋，炸蝦棗也好吃！老闆服務很周到，推薦！
+ Yen Chang ,https://www.google.com/maps/contrib/106162827439712102101/reviews?hl=zh-TW,5,False,1,"清蒸肉圓很好吃，用餐環境很舒適。
+第四代年青老闆很親切有想法，肯努力。
+值得大家來吃。"
+ Taiwan Hsun ,https://www.google.com/maps/contrib/110080505545853998191/reviews?hl=zh-TW,1,True,24,其實我想評論的大致跟負評一樣、如果能改善早就改善、
+ 李文惠 ,https://www.google.com/maps/contrib/102421696555527729197/reviews?hl=zh-TW,5,False,5,受歡迎的川業肉圓好吃
+ 葉雅萍 ,https://www.google.com/maps/contrib/114906053194578740414/reviews?hl=zh-TW,5,False,14,懷念的古早味一店滿足！！！🥰🥰🥰我吃了肉圓，餛飩湯和滷肉飯。平民美食小吃，值得回頭的好店家~~~讚
+ 劉宇軒 ,https://www.google.com/maps/contrib/111393509675710589892/reviews?hl=zh-TW,5,False,8,"環境舒服！
+肉圓很特別～
+值得一試"
+ 30332廖展毅 ,https://www.google.com/maps/contrib/114478752576254687818/reviews?hl=zh-TW,5,False,1,內用超級漂亮又好吃
+ 陳叔筠 ,https://www.google.com/maps/contrib/110022899603111996921/reviews?hl=zh-TW,5,False,13,"服務好，肉圓料多，搭配秘制紅醬好吃～
+豬血湯讚👍"
+ Laetitia Chen ,https://www.google.com/maps/contrib/106959895786909389523/reviews?hl=zh-TW,4,True,246,"2022/06/05川業肉圓
+午餐"
+ WenHui Shih ,https://www.google.com/maps/contrib/100320351979483722528/reviews?hl=zh-TW,5,True,6,紅糟味道讚！
+ 許盛翔 ,https://www.google.com/maps/contrib/117784782649661209740/reviews?hl=zh-TW,5,False,11,"老闆娘阿姨親切，環境很乾淨衛生
+肉圓很好吃！非常讚的巷弄美食～"
+ Steve Hsieh ,https://www.google.com/maps/contrib/117586029159754742438/reviews?hl=zh-TW,5,True,72,艋舺百年肉圓1910-2022，清蒸肉圓皮薄菜肉餡多，口味真不錯。👍
+ 郭沛鑫 ,https://www.google.com/maps/contrib/113014053191654205910/reviews?hl=zh-TW,5,False,1,"非常乾淨的老店
+肉圓很讚"
+ 林群為 ,https://www.google.com/maps/contrib/105224776843848281921/reviews?hl=zh-TW,5,False,6,肉圓很好吃
+ Yu-Cheng Chang ,https://www.google.com/maps/contrib/111178970417825508448/reviews?hl=zh-TW,5,False,1,好吃的肉圓和石花凍
+ YiHua Lin ,https://www.google.com/maps/contrib/111334446194835658953/reviews?hl=zh-TW,5,False,8,好吃喔！態度親切：）種類很多
+ Zach Hong ,https://www.google.com/maps/contrib/112680242016116106306/reviews?hl=zh-TW,5,True,49,"去年上網google找到這家店，本來想去吃的，但因不巧遇到本土疫情大爆發🤢😷🤮🤧就沒辦法去了😥😓
+這次終於吃到了令人懷念的紅糟肉圓。居然能在台北市吃到😋，真的是太開心了😍"
+ You-Sheng He ,https://www.google.com/maps/contrib/103707092628139573413/reviews?hl=zh-TW,5,False,7,老闆親切，東西實在！
+ 陳. ,https://www.google.com/maps/contrib/112568548937046841152/reviews?hl=zh-TW,5,False,4,好吃！店內的環境也很乾淨
+ Ro ng ,https://www.google.com/maps/contrib/114800113473805213591/reviews?hl=zh-TW,5,False,8,肉圓內餡飽滿🥰🥰🥰
+ 童宏儒 ,https://www.google.com/maps/contrib/104493514467278283826/reviews?hl=zh-TW,5,False,16,從7-8歲吃到現在，三十年了…肉圓是目前吃過最好吃的一家，無法取代，小時候去吃的時候老闆還抱著他兒子在懷裡，打電話叫貨，一轉眼他兒子已經出來接班了…很棒的一家肉圓店，希望可以一直傳承下去～
+ Chris Kuo ,https://www.google.com/maps/contrib/115642804229245170112/reviews?hl=zh-TW,5,True,91,小時候常吃的老味道，每次回來艋舺都要來回味一下，真的好吃！！老店有了新名字，但美味不變👍👍
+ joy90909 ,https://www.google.com/maps/contrib/114664191101822680107/reviews?hl=zh-TW,5,False,16,"肉圓很特別！清蒸的很軟嫩
+
+羹麵有淡淡香菇味道、肉也很多
+
+麵條不會太爛
+
+好吃！"
+ A A ,https://www.google.com/maps/contrib/102577176833206074090/reviews?hl=zh-TW,5,False,6,"我吃過最好吃的肉圓，紅糟肉加上獨門醬汁完全超對味👍🏻👍🏻
+還有綜合羹，裡頭有魚酥+魷魚+肉羹，三種料一次滿足
+老闆與員工都很親切、熱情😊
+下次一定會再來用餐，還會介紹朋友來吃"
+ Nikky Wu ,https://www.google.com/maps/contrib/104456447376409430795/reviews?hl=zh-TW,5,False,2,紅糟肉圓真的超級好吃，皮Q，醬汁味道又很對味，重點是老老闆和老老闆娘都很好客，新的年輕人承接，一定要大力支持一番的，希望傳統純手工的好味道一定要一直流傳下去
+ 黑娃娃 ,https://www.google.com/maps/contrib/111080594096180166139/reviews?hl=zh-TW,5,True,333,"肉圓很好吃（紅糟肉筍筍餡）
+可惜小了點一個45"
+ 王韶薇 ,https://www.google.com/maps/contrib/116521558936207271271/reviews?hl=zh-TW,5,False,8,在剝皮寮看展完，展場的工作人員推薦來吃～店面舒適乾淨明亮，紅鞠肉圓非常好吃啊！皮的Q度與肉、紅鞠醬搭配很爽口！地點也好找。老闆們十分親切（╹◡╹）～剛好老闆有空與熟客們分享創店歷史，才知道原來秘傳紅鞠是祖先渡海來台帶到萬華創店的，好酷！推薦！
+ San Su ,https://www.google.com/maps/contrib/114215888851804454369/reviews?hl=zh-TW,5,True,441,好吃😋。乾淨。服務好
+ WEI ,https://www.google.com/maps/contrib/109954380231357476306/reviews?hl=zh-TW,5,False,6,在萬華乾淨又衛生的好吃小吃👍
+ Prevers Tsai ,https://www.google.com/maps/contrib/102080299568729898195/reviews?hl=zh-TW,5,False,6,"皮Q饞實在，很久沒有吃到這麼好的肉㘣，遠比我過去吃的時候肉圓都好吃。
+每個人都應該來開發自己對於肉圓不同的想像。"
+ 陳小慧 ,https://www.google.com/maps/contrib/115279836069610137216/reviews?hl=zh-TW,5,False,11,就是要吃紅糟肉圓太好吃了😍
+ ㄌㄌㄘ ,https://www.google.com/maps/contrib/114345803119714374930/reviews?hl=zh-TW,5,False,9,"老闆&員工都很親切
+東西也都很好吃
+滷豆干肉圓推推👍"
+ 葛厚函 ,https://www.google.com/maps/contrib/100233811011763641716/reviews?hl=zh-TW,5,False,6,"料足實在👍
+肉圓沒話說
+乾麵讓我超驚豔
+用心真的吃的出來
+而且後來加點青菜湯
+想說怎麼那麼好喝
+原來是用大骨熬過"
+ 王欽聰 ,https://www.google.com/maps/contrib/102609305294243344712/reviews?hl=zh-TW,4,True,290,老萬華人的記憶⋯
+ 林沛緹 ,https://www.google.com/maps/contrib/111715780876885430011/reviews?hl=zh-TW,5,False,3,肉圓皮Q口味獨特好吃~羹湯很濃郁~料好實在，養生石花凍也很讚！老板服務很親切~^^
+ 張智豪 ,https://www.google.com/maps/contrib/111944534267403459017/reviews?hl=zh-TW,5,False,5,東西好吃，服務態度佳！
+ 鄧雲立 ,https://www.google.com/maps/contrib/116028715816297560192/reviews?hl=zh-TW,5,False,1,滷肉飯和綜合羹好吃😋😋😋
+ j j ,https://www.google.com/maps/contrib/117807979208506591600/reviews?hl=zh-TW,5,False,5,"貢丸湯讚!
+炸魚很好吃!"
+ 鄭思聖 ,https://www.google.com/maps/contrib/103973945622881227990/reviews?hl=zh-TW,2,False,5,我是在地萬華人，從小吃你們家肉圓肉羹長大，從拆除的萬華商到現在少說也40年，疫情期間停業三個月裝修，今天我去吃了大失所望，口味整個變了，肉圓皮變軟了內餡味道也變淡，肉羹沒以前濃郁反而比較像清湯，改了裝潢改名字但手藝要傳承，才能抓住萬華麗的老舊的心
+ Cliff Lee ,https://www.google.com/maps/contrib/115517101898740310572/reviews?hl=zh-TW,3,False,5,"樓下鄭思聖先生的評論，我頗有同感。
+我們家已吃三代了，我也吃了40多年，
+疫情期間還撲空了2次沒營業，今天終於
+吃到了我思念的油炸肉圓。
+但是皮變得軟爛，真的沒之前的Q彈有
+嚼勁。
+沒有批評的意思，衷心希望兒時至今的
+古早味，永遠不變。"
+ 陳威鈞 ,https://www.google.com/maps/contrib/116285238667028882785/reviews?hl=zh-TW,3,True,18,"它不是正統的新竹肉圓
+新竹肉圓不會包筍子的
+
+承如上述：正統的新竹肉圓是不會包筍子的"
+ 王小偉（Wei Wei） ,https://www.google.com/maps/contrib/112060757408547409819/reviews?hl=zh-TW,5,True,25,環境乾淨、服務親切、提供待用餐、肉圓好食😋
+ Chih-chiang Tsai ,https://www.google.com/maps/contrib/105629681560284976665/reviews?hl=zh-TW,5,True,45,第四代肉圓❤️
+ JIE WANG ,https://www.google.com/maps/contrib/117389525797686006867/reviews?hl=zh-TW,5,False,3,肉圓好吃😋。
+ Urania Lin ,https://www.google.com/maps/contrib/104822594029457645402/reviews?hl=zh-TW,1,True,42,在剝皮寮的展覽看到介紹慕名而去，但肉圓真的不好吃，淡而無味，皮也不Q……
+ Maggie Fu ,https://www.google.com/maps/contrib/103481848871398021966/reviews?hl=zh-TW,5,False,14,今天外出無意中路過這家店，竟然有100多年歷史，傳到第三代了。店內非常乾淨，老闆們非常的客氣親切，當然東西好吃不在話下。
+ 萬俊宏 ,https://www.google.com/maps/contrib/113885365831790740134/reviews?hl=zh-TW,5,False,1,肉圓好吃👍🏻
+ Yu Jing Wang ,https://www.google.com/maps/contrib/110449887231198365861/reviews?hl=zh-TW,5,False,4,從小吃到大的肉圓，吃過這家後，其他肉圓都比不上，真心推薦👍👍👍👍👍
+ 粘立璿 ,https://www.google.com/maps/contrib/106199743553055849378/reviews?hl=zh-TW,5,False,14,CP值高，東西好吃，店員小哥很客氣👍🏻
+ 30327高健誠 ,https://www.google.com/maps/contrib/114261852565436594614/reviews?hl=zh-TW,5,False,1,很好吃！！！推薦肉圓跟羹
+ Yin Chen ,https://www.google.com/maps/contrib/106949751080026251550/reviews?hl=zh-TW,5,False,19,肉圓好吃～店員弟弟很用心詢問客人的口味～用餐體驗很棒！好店家！
+ 簡雅珍 ,https://www.google.com/maps/contrib/113751862932304599210/reviews?hl=zh-TW,5,False,9,服務很好，東西好吃
+ Lukas Lin ,https://www.google.com/maps/contrib/101691313649369819555/reviews?hl=zh-TW,4,True,89,還不錯，皮好吃，筍子很多
+ Shih Amelia ,https://www.google.com/maps/contrib/112728246306186157475/reviews?hl=zh-TW,5,False,8,肉圓好吃～～用心經營的店家值得支持👍
+ 蚊子LO ,https://www.google.com/maps/contrib/102905634023664115503/reviews?hl=zh-TW,2,True,64,很乾淨但不太喜歡
+ 楊欣叡 ,https://www.google.com/maps/contrib/114478589331946153044/reviews?hl=zh-TW,5,False,2,好吃的肉圓😋
+ 黃麗英 ,https://www.google.com/maps/contrib/101578009919178301542/reviews?hl=zh-TW,5,False,2,肉圓很讚
+ 泰迪黃 ,https://www.google.com/maps/contrib/102823851636542135486/reviews?hl=zh-TW,5,True,183,好吃很乾淨服務快又好
+ Victor Cheng ,https://www.google.com/maps/contrib/117083533988212428012/reviews?hl=zh-TW,5,False,1,一分網友曾負評「魯肉飯」！今忍不住好奇，特地單點一小碗試試吃看（如圖示），我不是業配，但陳老闆遵古法製的魯肉汁和粒粒飽滿米飯的最佳襯合，確實口齒留香、令人映象深刻！
+ 廖戰毅 ,https://www.google.com/maps/contrib/101612146549635724533/reviews?hl=zh-TW,5,False,1,石花凍超好吃
+ 莊小 ,https://www.google.com/maps/contrib/110226771199562409179/reviews?hl=zh-TW,5,False,14,服務親切肉圓好吃👏🏻👏🏻
+ BILL ,https://www.google.com/maps/contrib/117414762662073383186/reviews?hl=zh-TW,5,False,7,"百年老店
+可以吃到新竹肉圓，真的很新鮮
+好吃"
+ 佩純林 ,https://www.google.com/maps/contrib/103847266851082385672/reviews?hl=zh-TW,5,False,8,清蒸紅糟肉圓好吃！
+ 朱家琪 ,https://www.google.com/maps/contrib/116658031836156521368/reviews?hl=zh-TW,5,False,6,在地老店推薦
+ 阿智 ,https://www.google.com/maps/contrib/102796770568112145860/reviews?hl=zh-TW,5,True,317,外帶也好吃
+ Mike Cheng ,https://www.google.com/maps/contrib/105906397056699345413/reviews?hl=zh-TW,5,True,58,兩個小孩自己吃完一碗大碗意麵
+ KEN HUANG ,https://www.google.com/maps/contrib/104066168678572447168/reviews?hl=zh-TW,5,False,5,肉圓好吃！！
+ 陳衡昱 ,https://www.google.com/maps/contrib/103909269519149616874/reviews?hl=zh-TW,5,False,11,肉圓好吃推薦喲！
+ 曹庭瑩 ,https://www.google.com/maps/contrib/111280567666918091071/reviews?hl=zh-TW,5,False,10,"過去的新竹肉圓重新裝潢為川業
+環境明亮、乾淨，煥然一新🤩
+第四代老闆努力守護著古早的美味
+一點都不失傳～
+依舊美味，傳承好滋味👍👍👍👍
+有機會來艋舺會再次的二訪三訪四訪⋯⋯"
+ Yenlin Chen ,https://www.google.com/maps/contrib/105611749387765021760/reviews?hl=zh-TW,5,False,5,"乾意麵好吃！
+空間明亮
+環境整潔舒適"
+ 伶 ,https://www.google.com/maps/contrib/110644449766473281753/reviews?hl=zh-TW,4,True,850,肉圓好吃
+ 洪明隆 ,https://www.google.com/maps/contrib/102269412256694602017/reviews?hl=zh-TW,5,True,23,老闆熱情，而且還主動關心我們，要幫我們把湯加熱，讚喔！
+ Sunny Deng ,https://www.google.com/maps/contrib/102420249116499379953/reviews?hl=zh-TW,4,False,4,東西好吃，服務態度很好
+ 劉乃華 ,https://www.google.com/maps/contrib/110889768899561333697/reviews?hl=zh-TW,4,True,442,餐點平價，口味也不錯
+ 劉瑄瑄 ,https://www.google.com/maps/contrib/107967367871136764989/reviews?hl=zh-TW,5,False,17,使用外送少來一碗餛飩湯，後來店家還補送過來真是有心🥺有空再去店面光顧
+ Egg ,https://www.google.com/maps/contrib/102778024836734638670/reviews?hl=zh-TW,3,True,120,萬華在地老店，我從小就吃，肉圓是招牌口味是紅糟的，喜歡的不要錯過。
+ 狗狗 ,https://www.google.com/maps/contrib/106954509312607296643/reviews?hl=zh-TW,5,False,5,喜歡老闆的服務態度親切又熱情👍🏻👍🏻
+ C.C. Lu ,https://www.google.com/maps/contrib/105617663773318794593/reviews?hl=zh-TW,4,True,"1,237",肉圓、綜合羹味道不錯，價格中上
+ 酒的故事酒的故事 ,https://www.google.com/maps/contrib/115004156972264892897/reviews?hl=zh-TW,5,False,6,"廣州街鄰居們依舊
+
+當年因為工作關係
+
+認識不少商店家路邊攤
+
+裝潢後第一次回來品嚐好味道
+
+老闆們傳承給下一代接班
+
+一代傳一代代代相傳
+
+百年傳承好味道"
+ 劉兆敏 ,https://www.google.com/maps/contrib/113584940495897942314/reviews?hl=zh-TW,5,False,1,第四代老闆年輕人禮貌和氣生財，讚👍⋯⋯
+ Differ Wu ,https://www.google.com/maps/contrib/111270770174690496082/reviews?hl=zh-TW,5,False,5,肉圓好吃
+ 廖毅展 ,https://www.google.com/maps/contrib/102241531013568688616/reviews?hl=zh-TW,5,False,1,環境讚又好吃
+ 孫裕利 ,https://www.google.com/maps/contrib/107563995919256843701/reviews?hl=zh-TW,5,False,9,極好吃！
+ 王一頴 ,https://www.google.com/maps/contrib/116319029096186276820/reviews?hl=zh-TW,5,False,5,超級好吃的Q彈肉圓～～每一口都口齒留香，一顆完全不過癮
+ 林玄意 ,https://www.google.com/maps/contrib/114859672085378524450/reviews?hl=zh-TW,5,False,2,態度親切，肉圓好吃
+ Han-Yun Tsai ,https://www.google.com/maps/contrib/115202151049495302749/reviews?hl=zh-TW,5,False,7,純手工製作，超好吃的肉圓，料多實在，裡面的肉跟筍子吃得出來品質很好，老闆很用心！
+ 洪樹根 ,https://www.google.com/maps/contrib/110136129544665907340/reviews?hl=zh-TW,5,False,2,很好吃，服務態度很好
+ 江大帥 ,https://www.google.com/maps/contrib/114834179551860037372/reviews?hl=zh-TW,4,True,198,建議蒸肉丸的內餡味道再調重一點！
+ JK ,https://www.google.com/maps/contrib/103358595528544687450/reviews?hl=zh-TW,4,True,67,肉圓皮外皮Q彈，但味道很普通，乾意麵口味一般
+ May Huang ,https://www.google.com/maps/contrib/107538740759441757125/reviews?hl=zh-TW,5,False,8,石凍味道好讚，必點肉圓！燙青菜的分量非常夠吃！
+ Rex Chu ,https://www.google.com/maps/contrib/115898700919733810823/reviews?hl=zh-TW,5,False,11,老店配帥哥就是讚~
+ 水蛙 ,https://www.google.com/maps/contrib/114434628064635344064/reviews?hl=zh-TW,5,False,4,乾淨衛生又好吃😋😋😋😋
+ 多多 ,https://www.google.com/maps/contrib/105148686665931347080/reviews?hl=zh-TW,4,True,166,"肉圓很Q,雖小但料足﹐很好吃"
+ HODA ,https://www.google.com/maps/contrib/102695399318951403116/reviews?hl=zh-TW,5,False,45,好吃服務好
+ JINXIANG CHIU ,https://www.google.com/maps/contrib/116645126357077600585/reviews?hl=zh-TW,5,False,16,蠻好吃，石花洞推，炸物也很好吃，羹類也不錯，老闆也很帥
+ 284125 Johnson ,https://www.google.com/maps/contrib/108476781478022135715/reviews?hl=zh-TW,5,False,2,肉圓好吃
+ Kaiden Scott ,https://www.google.com/maps/contrib/108061832136011811346/reviews?hl=zh-TW,5,False,5,百年老店很讚！
+ 羅敏瑄 ,https://www.google.com/maps/contrib/100896893048767053628/reviews?hl=zh-TW,5,False,11,老闆人很好
+ Jyhwen Wang ,https://www.google.com/maps/contrib/107889038806801946349/reviews?hl=zh-TW,5,False,1,美味可口，一級棒！
+ 林本銘 ,https://www.google.com/maps/contrib/100937749515473568268/reviews?hl=zh-TW,5,False,2,.我的印像，我從第二代，在和平西路，萬華戲院旁的時候，就吃.家店的東西了。認為這家店對食材，食物的認真，另人激賞。
+ Chain Queueing ,https://www.google.com/maps/contrib/101849779958846211878/reviews?hl=zh-TW,4,True,254,口味有用心做出特色，但價格訂的實屬觀光客的消費。
+ 汤玉兰 ,https://www.google.com/maps/contrib/114910782438826967535/reviews?hl=zh-TW,5,False,1,昨天看直播，今天就來試試看他們的肉圓，真的很好吃，紅糟很香，很合我的胃口
+ Jack Yang ,https://www.google.com/maps/contrib/107425808715848987949/reviews?hl=zh-TW,5,False,5,服務親切、食物好吃😋
+ 張雲 ,https://www.google.com/maps/contrib/107377363005829842053/reviews?hl=zh-TW,5,False,10,每樣都非常好吃，讚不絕口
+ 洪玉珊 ,https://www.google.com/maps/contrib/115190736063666711403/reviews?hl=zh-TW,5,False,5,肉圓好吃
+ 李曼修이만수 ,https://www.google.com/maps/contrib/114465107802193243713/reviews?hl=zh-TW,5,True,34,"每到萬華必定要吃上一顆仍然美味十足
+還可以用行動支付很方便"
+ 羅文呈 ,https://www.google.com/maps/contrib/105725757817774103356/reviews?hl=zh-TW,5,True,930,青菜湯清淡順口份量也多，肉圓口感也不錯，適合簡單用餐小憩。
+ 高溯偉 ,https://www.google.com/maps/contrib/104015833429446985023/reviews?hl=zh-TW,5,False,3,好吃😋喜歡肉圓的朋友不要錯過喔
+ 江若庭 ,https://www.google.com/maps/contrib/112415367789430065818/reviews?hl=zh-TW,5,False,11,萬華在地老店，肉圓美味、醬汁獨特，店家整修後煥然一新、令人印象深刻
+ 炎昊鋼（昊鋼老師） ,https://www.google.com/maps/contrib/110926322318406818905/reviews?hl=zh-TW,5,True,24,超過百年肉圓從小吃到大！
+ 陳霈珊 ,https://www.google.com/maps/contrib/115833812191967734439/reviews?hl=zh-TW,5,False,2,好吃衛生老闆服務好
+ haha pupu ,https://www.google.com/maps/contrib/105168012717505583660/reviews?hl=zh-TW,5,False,5,肉圓好吃喔！
+ Y AD ,https://www.google.com/maps/contrib/105657606980103069502/reviews?hl=zh-TW,5,True,25,從小吃到大的肉圓回來了環境重新裝潢後看起來也更舒服了
+ Peggy Liu ,https://www.google.com/maps/contrib/104860725885006965181/reviews?hl=zh-TW,5,False,9,好吃！老闆親切
+ Bamboo ,https://www.google.com/maps/contrib/113700167259051216778/reviews?hl=zh-TW,5,True,34,服務貼心，好吃
+ Chun Chieh Lin ,https://www.google.com/maps/contrib/108741529976302282146/reviews?hl=zh-TW,5,False,5,輪椅♿️進出無障礙。食物超好吃
+ 饅頭仔 ,https://www.google.com/maps/contrib/117243993049701242955/reviews?hl=zh-TW,5,False,9,肉圓超正👍
+ Shihpin WANG ,https://www.google.com/maps/contrib/107087265715394400263/reviews?hl=zh-TW,2,True,464,雖號為新竹肉圓，但口味與新竹肉圓仍有差，且份量偏少。
+ 黃朴茂 ,https://www.google.com/maps/contrib/108906208892541366315/reviews?hl=zh-TW,5,True,76,燙青菜的份量很足夠，肉圓好吃，肉圓內餡是好吃的肉
+ YALIN WU ,https://www.google.com/maps/contrib/111213906367901817126/reviews?hl=zh-TW,5,False,5,肉圓改良肉皮後，變得好Q好好吃
+ Huang Webber ,https://www.google.com/maps/contrib/116757458691277617975/reviews?hl=zh-TW,4,True,515,乾淨，不錯吃！
+ 胡太太 ,https://www.google.com/maps/contrib/101173086848093826267/reviews?hl=zh-TW,5,False,2,好吃、值得推薦
+ Daniel Wang ,https://www.google.com/maps/contrib/118147199017158202719/reviews?hl=zh-TW,5,False,5,肉圓羹湯滷肉飯都很好吃
+ Eric Mark ,https://www.google.com/maps/contrib/110189633755518925991/reviews?hl=zh-TW,5,False,6,好吃的傳統肉圓
+ Ben Lau ,https://www.google.com/maps/contrib/114886745152669688433/reviews?hl=zh-TW,5,False,11,紅糟肉圓好吃
+ 張育甄 ,https://www.google.com/maps/contrib/103084815271313152872/reviews?hl=zh-TW,5,False,1,油麵很讚！
+ Rex Chen ,https://www.google.com/maps/contrib/106160234340454647218/reviews?hl=zh-TW,5,True,828,東西好吃，老闆很客氣
+ 洪克霖 ,https://www.google.com/maps/contrib/113357351797219129837/reviews?hl=zh-TW,5,False,7,齁甲！大家來吃
+ 劉建成 ,https://www.google.com/maps/contrib/111652258772705077199/reviews?hl=zh-TW,5,False,7,意麵好吃👍👍
+ 陳佩鈞 ,https://www.google.com/maps/contrib/118093185997062641490/reviews?hl=zh-TW,4,False,9,"肉圓皮Q，料多，加點辣好吃
+石花凍也好吃"
+ 杜建輝 ,https://www.google.com/maps/contrib/101350260611155592203/reviews?hl=zh-TW,4,True,126,"味道不錯，環境明亮
+
+餐具提醒問題也有拿進去重洗值得肯定"
+ S珊 ,https://www.google.com/maps/contrib/104125700096579677648/reviews?hl=zh-TW,5,False,50,"很用心的老店
+偶然經過
+竟然意外踏進好吃又用心的店面👍🏻👍🏻"
+ Sara Sung ,https://www.google.com/maps/contrib/109462326702436618893/reviews?hl=zh-TW,5,True,104,店員非常親切😊😊😊很貼心👍🏻👍🏻食物好好吃！環境也很乾淨！
+ 陳毅軒 ,https://www.google.com/maps/contrib/109454394667124733322/reviews?hl=zh-TW,5,False,4,超級好吃的啦
+ JJ ,https://www.google.com/maps/contrib/115308795122321247255/reviews?hl=zh-TW,5,False,12,"肉圓Q彈肉羹湯湯頭清爽不死鹹
+炸魚塊推推好吃"
+ Kay Lin ,https://www.google.com/maps/contrib/113947919387041408940/reviews?hl=zh-TW,5,False,4,肉圓好吃，😋
+ Danny Chen ,https://www.google.com/maps/contrib/113542809721600576067/reviews?hl=zh-TW,5,False,8,肉圓好吃！推薦！
+ Tony Hsieh ,https://www.google.com/maps/contrib/102089217323574911160/reviews?hl=zh-TW,5,False,5,龍山寺隱藏美食！盛大裝潢重新開幕！強烈推薦大家一定要來吃看看！
+ Cindy Lee ,https://www.google.com/maps/contrib/100416688907909285346/reviews?hl=zh-TW,5,False,4,在地的好滋味，好口感代代相傳；艋舺首選美食，好吃好吃好吃大推^_^
+ yung tseng ,https://www.google.com/maps/contrib/115527754231382358560/reviews?hl=zh-TW,5,True,42,肉圓好好吃
+ 王永銘 ,https://www.google.com/maps/contrib/116778079605839662387/reviews?hl=zh-TW,5,False,178,老店新開，吃的好飽。
+ 蔡攸米 ,https://www.google.com/maps/contrib/100777568795814024442/reviews?hl=zh-TW,5,True,25,太好吃了😋都來不及拍（熱熱吃更過癮）
+ Amychen ,https://www.google.com/maps/contrib/105666490438247792628/reviews?hl=zh-TW,5,False,1,好吃，讚！！
+ Chingyu Hsieh ,https://www.google.com/maps/contrib/110563063122702516324/reviews?hl=zh-TW,5,False,4,老闆很親切，食物也新鮮真材實料好吃～
+ 李奇峰 ,https://www.google.com/maps/contrib/110077281186316389480/reviews?hl=zh-TW,5,False,14,讚
+ Liao Ian ,https://www.google.com/maps/contrib/116736352418848772799/reviews?hl=zh-TW,5,False,1,環境超讚
+ Chih-Cheng Huang ,https://www.google.com/maps/contrib/100212429912921491451/reviews?hl=zh-TW,5,False,20,吃完肉圓再一碗石花凍，真的很爽口！！
+ 黃映瑄 ,https://www.google.com/maps/contrib/110506371837134661730/reviews?hl=zh-TW,5,True,39,好吃小孩最誠實了
+ 厲害的吃貨 ,https://www.google.com/maps/contrib/103992695996167426290/reviews?hl=zh-TW,5,True,22,蠻厲害的，長輩很喜歡
+ 虎姨 ,https://www.google.com/maps/contrib/115075601499095732446/reviews?hl=zh-TW,5,False,34,肉圓.焿，湯都好吃😋
+ 毓哲張 ,https://www.google.com/maps/contrib/116256133302303073611/reviews?hl=zh-TW,5,False,2,味道還不錯
+ alexyz200 ,https://www.google.com/maps/contrib/102797445160750969596/reviews?hl=zh-TW,5,True,14,老店整修再出發味道依舊美味多元支付迎合趨勢
+ Jan Ben ,https://www.google.com/maps/contrib/102649437437829586719/reviews?hl=zh-TW,5,True,16,自製肉圓好吃
+ Ding-Wen Chen ,https://www.google.com/maps/contrib/105255270893857272659/reviews?hl=zh-TW,5,False,5,傳承傳統美食的好味道，來訪近20年
+ 石佳蓉 ,https://www.google.com/maps/contrib/109645406908379362773/reviews?hl=zh-TW,5,False,2,服務親切，餐點美味！
+ Owens Chang ,https://www.google.com/maps/contrib/106278778260871365382/reviews?hl=zh-TW,4,True,102,從小吃到大的美食
+ waynn7788 ,https://www.google.com/maps/contrib/116034801151313278226/reviews?hl=zh-TW,5,False,4,老闆超讚！
+ 洪筱淇 ,https://www.google.com/maps/contrib/110072285082393941890/reviews?hl=zh-TW,5,False,6,好吃👍老闆親切～
+ 吳芷榕 ,https://www.google.com/maps/contrib/102081672026433240338/reviews?hl=zh-TW,5,False,2,肉圓好吃！！
+ julia chen ,https://www.google.com/maps/contrib/111410116375193247118/reviews?hl=zh-TW,5,False,5,肉丸讚讚
+ 董晃良 ,https://www.google.com/maps/contrib/102572350897462725969/reviews?hl=zh-TW,4,True,38,從小（6歲）吃到大（67歲）
+ 彭娟娟 ,https://www.google.com/maps/contrib/100452328061175495692/reviews?hl=zh-TW,5,True,40,從小吃到大的味道
+ 游麟奇 ,https://www.google.com/maps/contrib/114413391447599768915/reviews?hl=zh-TW,3,True,60,我覺得貴了點
+ 余雨城 ,https://www.google.com/maps/contrib/102604410150370520670/reviews?hl=zh-TW,5,True,101,服務態度佳、肉圓味道佳
+ 陳欣萍 ,https://www.google.com/maps/contrib/118094714554638419747/reviews?hl=zh-TW,5,False,10,老店口味依舊👍，態度親切，值得光顧！
+ 張志宇 ,https://www.google.com/maps/contrib/102064919250236507819/reviews?hl=zh-TW,5,True,214,百年老店一定要來品嚐一下好味道
+ 何俊勳15 ,https://www.google.com/maps/contrib/104355080228796188881/reviews?hl=zh-TW,5,False,10,好吃肉圓
+ SAM PENG ,https://www.google.com/maps/contrib/111772860209616013512/reviews?hl=zh-TW,5,True,83,在地老店新開，傳統好滋味
+ 張云嘉 ,https://www.google.com/maps/contrib/104639405336867096705/reviews?hl=zh-TW,5,False,2,好吃，店面換新裝，乾淨。
+ 阿森 ,https://www.google.com/maps/contrib/102919596780783488579/reviews?hl=zh-TW,5,False,3,懷念的好滋味，很值得嘗試！！！
+ 鄭達宗 ,https://www.google.com/maps/contrib/103785024463055414071/reviews?hl=zh-TW,5,False,13,超讚
+ David Chen (Madman) ,https://www.google.com/maps/contrib/104719370788145728048/reviews?hl=zh-TW,5,True,51,數年不變的美味，值得萬里支持！
+ W-C Lin ,https://www.google.com/maps/contrib/112919219255203548297/reviews?hl=zh-TW,3,True,39,古早味，讚!
+ my Lim ,https://www.google.com/maps/contrib/112377214254739899666/reviews?hl=zh-TW,4,True,468,店面乾淨
+ 徐雅虹 ,https://www.google.com/maps/contrib/114356098278591487475/reviews?hl=zh-TW,5,False,1,讚
+ Ann Betty ,https://www.google.com/maps/contrib/100882192133866081836/reviews?hl=zh-TW,5,False,1,讚
+ 李德祐 ,https://www.google.com/maps/contrib/101327325989022530930/reviews?hl=zh-TW,5,False,7,好吃肉圓👍
+ Margaret Hsu ,https://www.google.com/maps/contrib/116510226594213522382/reviews?hl=zh-TW,5,False,1,可愛的肉圓
+ 蔡wenny Tsai ,https://www.google.com/maps/contrib/109988566252595183315/reviews?hl=zh-TW,5,True,81,老闆好客
+ wu chiayun ,https://www.google.com/maps/contrib/104512420936059606233/reviews?hl=zh-TW,4,True,433,乾淨美味裝潢明亮
+ Matt Li ,https://www.google.com/maps/contrib/103242557121921806173/reviews?hl=zh-TW,5,False,10,老闆人帥又親切
+ 高誌良 ,https://www.google.com/maps/contrib/109555949900072999185/reviews?hl=zh-TW,3,True,25,肉圓好吃
+ Dada Wang ,https://www.google.com/maps/contrib/102282982687212785607/reviews?hl=zh-TW,5,False,6,超推呦，一定要試試👍
+ 陳蘊如 ,https://www.google.com/maps/contrib/110485641874944971878/reviews?hl=zh-TW,5,False,3,老闆好可愛：3
+ Ruby Yang ,https://www.google.com/maps/contrib/110299325146824884162/reviews?hl=zh-TW,5,False,74,獨一無二的肉圓
+ Devin Lin ,https://www.google.com/maps/contrib/117214429701397055005/reviews?hl=zh-TW,5,True,91,肉圓好吃！
+ 姚閎仁 ,https://www.google.com/maps/contrib/112445441646686143659/reviews?hl=zh-TW,5,True,76,好吃阿姨熱情
+ 謝玉柔 ,https://www.google.com/maps/contrib/115797566713438675132/reviews?hl=zh-TW,5,False,3,蠻好吃的
+ 林政君 ,https://www.google.com/maps/contrib/108311663640251879963/reviews?hl=zh-TW,5,False,6,好吃的肉圓
+ 佩欣 ,https://www.google.com/maps/contrib/109098032509430597321/reviews?hl=zh-TW,5,False,3,祝生意興隆
+ 劉恒 ,https://www.google.com/maps/contrib/111260168894934353245/reviews?hl=zh-TW,5,True,34,炸蝦棗👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍肉圓餡有香菇筍干也好棒
+ Yu Nelson ,https://www.google.com/maps/contrib/102222700152157997972/reviews?hl=zh-TW,4,True,86,一家有歷史的肉圓老店
+ 黃文郁 ,https://www.google.com/maps/contrib/105318599713849099970/reviews?hl=zh-TW,5,False,5,超級好吃
+ Valiant Lee ,https://www.google.com/maps/contrib/113426943184447828580/reviews?hl=zh-TW,5,True,44,清蒸油炸都不錯吃
+ 邱亦廷 ,https://www.google.com/maps/contrib/113782419891669737796/reviews?hl=zh-TW,5,False,5,初次來訪！肉圓真的很好吃！
+ Gary Chen ,https://www.google.com/maps/contrib/112230206080915165608/reviews?hl=zh-TW,4,True,345,"下午三點去吃，肉圓有點小顆，但還是好吃，筍絲與紅糟肉的完美搭配，醬很棒。吃辣的人可以加一點店裡特製的辣椒醬，提味又好吃。
+另外加點了貢丸湯，湯頭味道也不錯，但如果能把大骨湯的肉末喳渣濾掉，會更好~"
+ 陳靜芬 ,https://www.google.com/maps/contrib/110645668314629225499/reviews?hl=zh-TW,5,False,13,裝潢乾淨但仍可見歷史的軌跡..食物沒有雷每樣都好吃的銅板美食
+ MENGRU WU ,https://www.google.com/maps/contrib/108502763138555615199/reviews?hl=zh-TW,5,True,73,第四代老闆，肉圓好吃😋
+ SHANJU LEE ,https://www.google.com/maps/contrib/100043227480033119943/reviews?hl=zh-TW,5,False,4,"好吃到爆～
+老闆超帥超親切的
+大推☺️☺️☺️☺️"
+ Jason ,https://www.google.com/maps/contrib/100350589395588578778/reviews?hl=zh-TW,3,True,119,"肉圓不Q醬汁蠻特別的，肉羹湯的肉羹粉太多，整體普普
+用餐環境乾淨舒適"
+ 吳明琪 ,https://www.google.com/maps/contrib/102088937012727579640/reviews?hl=zh-TW,5,False,8,老闆很親切
+ D W ,https://www.google.com/maps/contrib/117795866209759711451/reviews?hl=zh-TW,4,True,150,"(由Google提供翻譯)他們的ba-wan非常好，我驚喜地在菜單上找到了煮熟的版本。在嘗試之後，發現它的外觀和味道都非常像它的油炸食品，我想我會留意那些以更健康的方式提供它的地方。我對他們的干雞蛋麵沒有那麼著迷，但我肯定會回來吃他們的ba-wan。
+
+(原始評論)
+Theirba-wanisquitegood,andIwaspleasantlysurprisedtofindaboiledversiononthemenu.Aftertryingit,andfindingthatitbothlooksandtastesquitealotlikeitsdeep-friedcounterpart,IthinkI'llbekeepinganeyeoutforplacesthatserveitthismuchhealthierway.Iwasn'tasenamoredwiththeirdryeggnoodledish,butI'dsurelyreturnfortheirba-wan."
+ Angelique Lu ,https://www.google.com/maps/contrib/106636924707627101018/reviews?hl=zh-TW,5,False,2,"(由Google提供翻譯)如果你去萬華。川業肉圓CHUANYEHrouyuan（原：新竹肉圓Xinzhurouyuan）是必嚐的。距離龍山寺（龍山寺）只有幾分鐘的步行路程。這家店已經開了一個多世紀了，可以說是因為食物很精緻。除了他們的特色肉圓，你還必須嚐嚐他們菜單上的新肉羹和石花凍（AgarJelly）。他們還有滷肉飯（紅燒肉飯）、乾麵（乾麵）、湯（湯）和各種小菜（配菜）。老闆和工作人員都非常熱情友好，再加上4代老闆長得真好！
+
+(原始評論)
+Ifyou'llgotoWanhua.川業肉圓CHUANYEHrouyuan（former:新竹肉圓Xinzhurouyuan）isamusttry.It'sjustafewminuteswalkfrom龍山寺（LongshanTemple）.Thestorehasbeenopenformorethanacentury,youcantellbecausefoodwasexquisite.Asidefrom肉圓whichistheirspecialty,youmustalsotrytheir肉羹(bouillon)and石花凍（AgarJelly)whichisnewontheirmenu.Theyalsohave滷肉飯(Braisedporkonrice)，乾麵(drynoodles)，湯(soup)andvarietyof小菜(sidedish).Theownersandstaffareverywarmandfriendly,plusthe4thgenerationownerlooksreallygood!"
+ 王長筠 ,https://www.google.com/maps/contrib/103844186125419011055/reviews?hl=zh-TW,5,False,4,皮薄，好吃！
+ 柯欣岑 ,https://www.google.com/maps/contrib/100139656416100830263/reviews?hl=zh-TW,5,False,6,老店不愧是老店！好吃！
+ 楊巧婕 ,https://www.google.com/maps/contrib/115543078804805330976/reviews?hl=zh-TW,5,False,11,好吃喔😋
+ Emma Fan ,https://www.google.com/maps/contrib/117799794174040181155/reviews?hl=zh-TW,5,True,11,好吃喔
+ Night Walker atlas ,https://www.google.com/maps/contrib/101397251804638466752/reviews?hl=zh-TW,5,False,1,"(由Google提供翻譯)非常愉快的經歷，友好的工作人員和舒適的食物。
+
+(原始評論)
+Verypleasantexperience,friendlystaffandcomfortingfood."
+ JiaQian Wu ,https://www.google.com/maps/contrib/115798806378946371934/reviews?hl=zh-TW,5,True,66,"(由Google提供翻譯)一定要嚐嚐他們的肉丸！我很想再來🤤🤤🤤
+
+(原始評論)
+Musttrytheirmeatball！I'lllovetocomebackagain🤤🤤🤤"
+ 陳小滴 ,https://www.google.com/maps/contrib/112837202509497163188/reviews?hl=zh-TW,5,True,108,超好吃
+ 王俊霖 ,https://www.google.com/maps/contrib/111381692023178307530/reviews?hl=zh-TW,5,False,2,好吃
+ 陳竹英 ,https://www.google.com/maps/contrib/101097710668558355721/reviews?hl=zh-TW,5,False,1,好吃
+ 許哲維 ,https://www.google.com/maps/contrib/117177849850534092259/reviews?hl=zh-TW,5,False,5,好吃
+ 陳又榆 ,https://www.google.com/maps/contrib/102764717777346916267/reviews?hl=zh-TW,5,True,24,好吃
+ Zoe Chen ,https://www.google.com/maps/contrib/109523181711549417640/reviews?hl=zh-TW,5,False,1,好吃
+ 管麗 ,https://www.google.com/maps/contrib/106401235382452955289/reviews?hl=zh-TW,5,False,1,好吃
+ 蔡睿清 ,https://www.google.com/maps/contrib/108858033353492394665/reviews?hl=zh-TW,5,False,1,老店美食。推推
+ 高子源 ,https://www.google.com/maps/contrib/115110100992889768078/reviews?hl=zh-TW,5,False,8,超好吃
+ 林姮均 ,https://www.google.com/maps/contrib/101744101753102687413/reviews?hl=zh-TW,5,False,7,皮Q肉香好好吃😋
+ 鄭鴻旗 ,https://www.google.com/maps/contrib/107258546840160140088/reviews?hl=zh-TW,5,False,4,好吃～
+ 鄧云文 ,https://www.google.com/maps/contrib/113111531972051192399/reviews?hl=zh-TW,5,False,2,"百年老店,超好吃!棒棒!"
+ Ian Liao ,https://www.google.com/maps/contrib/104556841519047877605/reviews?hl=zh-TW,5,False,1,好吃超棒
+ Hsinjung Lee ,https://www.google.com/maps/contrib/113667892698423041810/reviews?hl=zh-TW,5,False,1,很好吃唷
+ Anna Kuo ,https://www.google.com/maps/contrib/118218263808580294454/reviews?hl=zh-TW,5,False,2,好吃唷❤️❤️
+ 楊雅淇 ,https://www.google.com/maps/contrib/110473920332006007195/reviews?hl=zh-TW,5,False,4,好吃👍🏻
+ Son Hong ,https://www.google.com/maps/contrib/105801006169192531188/reviews?hl=zh-TW,5,False,1,好吃好吃好好吃💖
+ 魏媛 ,https://www.google.com/maps/contrib/102416005300595825828/reviews?hl=zh-TW,5,False,15,"(由Google提供翻譯)一家很老很老的店，我先生說他10歲的時候就來吃，一直到現在，老闆兒子出來做：哈哈哈好吃😋
+
+(原始評論)
+一家很老很老的店，我先生说他10岁的时候就来吃，一直到现在，老板儿子出来做：哈哈哈好吃😋"
+ 蕭哲宜 ,https://www.google.com/maps/contrib/108343001345674792342/reviews?hl=zh-TW,5,True,38,好吃！
+ David Chang ,https://www.google.com/maps/contrib/109727463177769136058/reviews?hl=zh-TW,5,False,28,好吃
+ Boo Boo ,https://www.google.com/maps/contrib/117514880953690484149/reviews?hl=zh-TW,5,False,1,"(由Google提供翻譯)很好
+
+(原始評論)
+Verygood"
+ 方夢貞 ,https://www.google.com/maps/contrib/102325824648172151286/reviews?hl=zh-TW,5,False,1,好吃
+ John Yu ,https://www.google.com/maps/contrib/103296441780785504012/reviews?hl=zh-TW,5,True,45,好吃
+ 陳曉然 ,https://www.google.com/maps/contrib/107623814665298650043/reviews?hl=zh-TW,5,False,1,"(由Google提供翻譯)好吃！！
+
+(原始評論)
+好吃！！"
+ mei ,https://www.google.com/maps/contrib/109611703747718688755/reviews?hl=zh-TW,5,False,5,好吃
+ 許願持 ,https://www.google.com/maps/contrib/109246322123142802027/reviews?hl=zh-TW,5,False,3,好吃
+ 淑華簡 ,https://www.google.com/maps/contrib/102208341708033680088/reviews?hl=zh-TW,5,False,7,好吃
+ 林永森 ,https://www.google.com/maps/contrib/106253011653758417118/reviews?hl=zh-TW,5,False,2,超⋯⋯好吃！
+ LeoN ,https://www.google.com/maps/contrib/107233383281245039247/reviews?hl=zh-TW,5,False,18,非常好吃😋
+ 林馨慧 ,https://www.google.com/maps/contrib/115466027771246868094/reviews?hl=zh-TW,5,False,8,CP值高的美食
+ 呂彥霆 ,https://www.google.com/maps/contrib/107706129419873921403/reviews?hl=zh-TW,5,False,21,好吃
+ 張玉青 ,https://www.google.com/maps/contrib/103624837156484786897/reviews?hl=zh-TW,5,False,3,好吃
+ 郭士豪 ,https://www.google.com/maps/contrib/105455602031999539214/reviews?hl=zh-TW,5,False,9,超好吃
+ 周冠廷 ,https://www.google.com/maps/contrib/114742533888946289886/reviews?hl=zh-TW,5,False,7,好吃超棒棒棒！
+ Meng Kuo ,https://www.google.com/maps/contrib/106022224665648853500/reviews?hl=zh-TW,5,False,1,厚甲
+ 彭雪蘭 ,https://www.google.com/maps/contrib/116956311434010524686/reviews?hl=zh-TW,4,True,62,好吃
+ panya lee ,https://www.google.com/maps/contrib/104401477612459884567/reviews?hl=zh-TW,5,False,5,肉㘣好呷😋
+ Libby ,https://www.google.com/maps/contrib/101603776527697281412/reviews?hl=zh-TW,5,False,30,很好吃😍😍😍
+ GUO-CHUN HUNG ,https://www.google.com/maps/contrib/107168013454040375701/reviews?hl=zh-TW,4,True,122,好吃但不便宜
+ 嘎萱萱 ,https://www.google.com/maps/contrib/105993738161128602954/reviews?hl=zh-TW,5,False,1,"(由Google提供翻譯)好的
+
+(原始評論)
+Good"
+ 劉晏均 ,https://www.google.com/maps/contrib/106453483779734985737/reviews?hl=zh-TW,3,True,15,小吃很好的商店
+ 妹仔 ,https://www.google.com/maps/contrib/111250643765561195667/reviews?hl=zh-TW,5,False,10,好吃好吃
+ yi ting Kuo ,https://www.google.com/maps/contrib/112156555992959438480/reviews?hl=zh-TW,5,False,2,大推，好吃
+ RS Lin ,https://www.google.com/maps/contrib/103093018488992055461/reviews?hl=zh-TW,5,False,8,🤭🤭好吃好吃
+ 徐芳瑛 ,https://www.google.com/maps/contrib/105744544368390821958/reviews?hl=zh-TW,5,False,1,好吃！
+ 房志雄 ,https://www.google.com/maps/contrib/105770699001436373925/reviews?hl=zh-TW,4,True,40,份量大，口味好。
+ 郭清興 ,https://www.google.com/maps/contrib/115247009728048004574/reviews?hl=zh-TW,5,True,22,好吃！
+ 黃元廷 ,https://www.google.com/maps/contrib/112523454782848425555/reviews?hl=zh-TW,5,False,6,👍🏻👍🏻好吃
+ Mike Lin ,https://www.google.com/maps/contrib/112369764921809029747/reviews?hl=zh-TW,5,False,1,百年店家～
+ 吳莓子 ,https://www.google.com/maps/contrib/108018143682421496940/reviews?hl=zh-TW,5,False,5,好吃美味100分
+ a0911987847 ,https://www.google.com/maps/contrib/100437063464629714204/reviews?hl=zh-TW,5,False,1,好吃
+ SSSteve ,https://www.google.com/maps/contrib/110064975327961076937/reviews?hl=zh-TW,5,False,18,好吃！
+ 呂維勳 ,https://www.google.com/maps/contrib/116631206479014753188/reviews?hl=zh-TW,5,False,19,"(由Google提供翻譯)100分，老闆/服務員服務的沒話講，除了100分還是100分！
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
+
+(原始評論)
+100分，老板/服务员服务的没话讲，除了100分还是100分！
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍"
+ 林小勳 ,https://www.google.com/maps/contrib/110149094576064590090/reviews?hl=zh-TW,5,False,31,美味
+ 李凱粧 ,https://www.google.com/maps/contrib/117058652567853712899/reviews?hl=zh-TW,5,False,2,在地的好滋味
+ Tin Chang ,https://www.google.com/maps/contrib/108600477087579546445/reviews?hl=zh-TW,5,False,19,好吃！
+ Ming-Ju Kuo ,https://www.google.com/maps/contrib/110422400932725575137/reviews?hl=zh-TW,3,False,19,普普分量少
+ 陳建棠 ,https://www.google.com/maps/contrib/114422242422790318125/reviews?hl=zh-TW,5,False,19,非常棒
+ 徐新雅 ,https://www.google.com/maps/contrib/114671303831924607560/reviews?hl=zh-TW,5,False,7,推推~~
+ 吳宗曄 ,https://www.google.com/maps/contrib/106894753468207016835/reviews?hl=zh-TW,4,True,94,好吃
+ 黃秋兒 ,https://www.google.com/maps/contrib/116809661020724214296/reviews?hl=zh-TW,5,False,1,好吃😋….
