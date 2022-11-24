@@ -24,7 +24,7 @@ def save2csv(folder_name, dataframe, file_name):
 def drop_no_comment(dataframe):
     no_comment_index = dataframe[(dataframe['comment_text'] == '') == True].index
     clean_df = dataframe.drop(no_comment_index)
-    print('共有 {} 則有效評論'.format(len(clean_df)))
+    # print('共有 {} 則有效評論'.format(len(clean_df)))
     print()
 
     return clean_df
